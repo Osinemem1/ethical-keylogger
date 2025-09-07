@@ -1,0 +1,2017 @@
+[2025-09-02 16:42:51.596] key Pressed: KeyF
+[2025-09-02 16:42:53.445] key Pressed: KeyF
+[2025-09-02 16:42:54.652] key Pressed: KeyA
+[2025-09-02 16:42:58.967] key Pressed: KeyM
+[2025-09-02 16:43:00.341] key Pressed: KeyK
+[2025-09-02 16:43:00.461] key Pressed: KeyQ
+[2025-09-02 16:43:01.050] key Pressed: KeyQ
+[2025-09-02 16:43:01.427] key Pressed: KeyS
+[2025-09-02 16:43:01.430] key Pressed: KeyM
+[2025-09-02 16:43:01.558] key Pressed: KeyK
+[2025-09-02 16:43:01.669] key Pressed: KeyN
+[2025-09-02 16:43:01.671] key Pressed: KeyM
+[2025-09-02 16:43:01.794] key Pressed: KeyK
+[2025-09-02 16:43:02.005] key Pressed: KeyD
+[2025-09-02 16:43:02.716] key Pressed: KeyD
+[2025-09-02 16:43:03.152] key Pressed: KeyK
+[2025-09-02 16:43:03.173] key Pressed: KeyA
+[2025-09-02 16:43:03.243] key Pressed: KeyN
+[2025-09-02 16:43:03.358] key Pressed: KeyK
+[2025-09-02 16:43:03.458] key Pressed: KeyN
+[2025-09-02 16:43:17.488] key Pressed: ControlLeft
+[2025-09-02 16:43:18.656] key Pressed: MetaLeft
+[2025-09-02 16:43:26.557] key Pressed: MetaLeft
+[2025-09-02 16:43:27.703] key Pressed: MetaLeft
+[2025-09-02 16:43:33.213] key Pressed: MetaLeft
+[2025-09-02 16:43:51.710] key Pressed: Unknown(135)
+[2025-09-02 16:43:54.646] key Pressed: Return
+[2025-09-02 16:44:03.620] key Pressed: Unknown(135)
+[2025-09-02 16:44:07.902] key Pressed: ControlLeft
+[2025-09-02 16:44:08.410] key Pressed: KeyV
+[2025-09-02 16:44:14.527] key Pressed: ShiftRight
+[2025-09-02 16:44:15.643] key Pressed: Return
+[2025-09-02 16:44:16.021] key Pressed: Return
+[2025-09-02 16:44:22.291] key Pressed: Unknown(135)
+[2025-09-02 16:44:25.881] key Pressed: ShiftRight
+[2025-09-02 16:44:26.114] key Pressed: Return
+[2025-09-02 16:44:27.150] key Pressed: Return
+[2025-09-02 16:44:28.584] key Pressed: ControlLeft
+[2025-09-02 16:44:28.880] key Pressed: KeyV
+[2025-09-02 16:44:29.791] key Pressed: Return
+[2025-09-03 04:25:28.027] [main.rs - ethical_keylogger - Visual Studio Code] key Pressed: Backspace
+[2025-09-03 04:25:28.212] [main.rs - ethical_keylogger - Visual Studio Code] key Pressed: Backspace
+[2025-09-03 04:25:28.566] [main.rs - ethical_keylogger - Visual Studio Code] key Pressed: Backspace
+[2025-09-03 04:25:30.221] [main.rs - ethical_keylogger - Visual Studio Code] key Pressed: ControlLeft
+[2025-09-03 04:25:30.432] [main.rs - ethical_keylogger - Visual Studio Code] key Pressed: KeyS
+[2025-09-03 04:25:30.593] [main.rs - ethical_keylogger - Visual Studio Code] key Pressed: KeyS
+[2025-09-03 04:26:24.430] [main.rs - ethical_keylogger - Visual Studio Code] key Pressed: ControlLeft
+[2025-09-03 04:26:25.987] [main.rs - ethical_keylogger - Visual Studio Code] key Pressed: Unknown(135)
+[2025-09-03 04:26:32.674] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: ControlLeft
+[2025-09-03 04:26:33.067] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyR
+[2025-09-03 04:26:50.094] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: ControlLeft
+[2025-09-03 04:26:51.038] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyV
+[2025-09-03 04:26:52.519] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: BackSlash
+[2025-09-03 04:26:52.521] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Return
+[2025-09-03 04:27:44.489] [main.rs - ethical_keylogger - Visual Studio Code] key Pressed: ControlLeft
+[2025-09-03 04:27:45.681] [main.rs - ethical_keylogger - Visual Studio Code] key Pressed: KeyZ
+[2025-09-03 04:27:52.252] [main.rs - ethical_keylogger - Visual Studio Code] key Pressed: PrintScreen
+[2025-09-03 04:28:39.598] [main.rs - ethical_keylogger - Visual Studio Code] key Pressed: PrintScreen
+[2025-09-03 04:28:47.069] [main.rs - ethical_keylogger - Visual Studio Code] key Pressed: PrintScreen
+[2025-09-03 04:29:29.104] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Space
+[2025-09-03 04:29:48.349] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyV
+[2025-09-03 04:30:04.657] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Space
+[2025-09-03 04:30:06.731] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Backspace
+[2025-09-03 04:30:07.013] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Backspace
+[2025-09-03 04:30:07.747] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Backspace
+[2025-09-03 04:30:08.948] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Backspace
+[2025-09-03 04:30:09.821] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Space
+[2025-09-03 04:30:29.599] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Space
+[2025-09-03 04:30:37.048] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Space
+[2025-09-03 04:30:38.867] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Space
+[2025-09-03 04:30:50.033] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Space
+[2025-09-03 04:31:07.664] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Space
+[2025-09-03 04:31:45.749] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyS
+[2025-09-03 04:31:46.107] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyO
+[2025-09-03 04:31:46.665] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Space
+[2025-09-03 04:31:47.662] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyW
+[2025-09-03 04:31:47.987] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyH
+[2025-09-03 04:31:48.168] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyA
+[2025-09-03 04:31:48.395] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyT
+[2025-09-03 04:31:48.747] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Space
+[2025-09-03 04:31:49.752] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyN
+[2025-09-03 04:31:49.998] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyE
+[2025-09-03 04:31:50.406] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyX
+[2025-09-03 04:31:50.718] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyT
+[2025-09-03 04:31:54.444] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Return
+[2025-09-03 04:32:52.384] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: MetaLeft
+[2025-09-03 04:32:54.983] [] key Pressed: Unknown(135)
+[2025-09-03 04:32:57.472] [] key Pressed: Return
+[2025-09-03 04:33:24.376] [] key Pressed: Unknown(135)
+[2025-09-03 04:33:27.008] [] key Pressed: Return
+[2025-09-03 04:33:48.444] [] key Pressed: Unknown(135)
+[2025-09-03 04:33:51.338] [] key Pressed: Return
+[2025-09-03 04:34:01.906] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyQ
+[2025-09-03 04:34:01.906] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyQ
+[2025-09-03 04:34:02.900] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyQ
+[2025-09-03 04:34:02.900] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyQ
+[2025-09-03 04:34:11.460] [] key Pressed: Unknown(135)
+[2025-09-03 04:34:11.460] [] key Pressed: Unknown(135)
+[2025-09-03 04:34:13.882] [] key Pressed: Return
+[2025-09-03 04:34:13.882] [] key Pressed: Return
+[2025-09-03 04:53:14.581] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyV
+[2025-09-03 04:53:14.581] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyV
+[2025-09-03 04:53:15.238] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyV
+[2025-09-03 04:53:15.238] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyV
+[2025-09-03 04:53:15.847] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Space
+[2025-09-03 04:53:15.847] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Space
+[2025-09-03 05:08:02.453] [] key Pressed: KeyS
+[2025-09-03 05:08:02.453] [] key Pressed: KeyS
+[2025-09-03 05:08:02.883] [] key Pressed: KeyU
+[2025-09-03 05:08:02.883] [] key Pressed: KeyU
+[2025-09-03 05:08:03.104] [] key Pressed: KeyD
+[2025-09-03 05:08:03.104] [] key Pressed: KeyD
+[2025-09-03 05:08:04.143] [] key Pressed: KeyO
+[2025-09-03 05:08:04.143] [] key Pressed: KeyO
+[2025-09-03 05:08:05.044] [] key Pressed: Space
+[2025-09-03 05:08:05.044] [] key Pressed: Space
+[2025-09-03 05:08:05.592] [] key Pressed: KeyN
+[2025-09-03 05:08:05.592] [] key Pressed: KeyN
+[2025-09-03 05:08:05.858] [] key Pressed: KeyA
+[2025-09-03 05:08:05.858] [] key Pressed: KeyA
+[2025-09-03 05:08:06.356] [] key Pressed: KeyN
+[2025-09-03 05:08:06.356] [] key Pressed: KeyN
+[2025-09-03 05:08:06.672] [] key Pressed: KeyO
+[2025-09-03 05:08:06.672] [] key Pressed: KeyO
+[2025-09-03 05:08:07.076] [] key Pressed: Space
+[2025-09-03 05:08:07.076] [] key Pressed: Space
+[2025-09-03 05:08:08.545] [] key Pressed: Slash
+[2025-09-03 05:08:08.545] [] key Pressed: Slash
+[2025-09-03 05:08:09.114] [] key Pressed: KeyE
+[2025-09-03 05:08:09.114] [] key Pressed: KeyE
+[2025-09-03 05:08:09.400] [] key Pressed: KeyT
+[2025-09-03 05:08:09.400] [] key Pressed: KeyT
+[2025-09-03 05:08:09.777] [] key Pressed: KeyC
+[2025-09-03 05:08:09.777] [] key Pressed: KeyC
+[2025-09-03 05:08:10.863] [] key Pressed: Slash
+[2025-09-03 05:08:10.863] [] key Pressed: Slash
+[2025-09-03 05:08:11.440] [] key Pressed: KeyS
+[2025-09-03 05:08:11.440] [] key Pressed: KeyS
+[2025-09-03 05:08:11.981] [] key Pressed: KeyY
+[2025-09-03 05:08:11.981] [] key Pressed: KeyY
+[2025-09-03 05:08:12.975] [] key Pressed: KeyS
+[2025-09-03 05:08:12.975] [] key Pressed: KeyS
+[2025-09-03 05:08:13.503] [] key Pressed: KeyT
+[2025-09-03 05:08:13.503] [] key Pressed: KeyT
+[2025-09-03 05:08:13.674] [] key Pressed: KeyE
+[2025-09-03 05:08:13.674] [] key Pressed: KeyE
+[2025-09-03 05:08:14.061] [] key Pressed: KeyM
+[2025-09-03 05:08:14.061] [] key Pressed: KeyM
+[2025-09-03 05:08:18.579] [] key Pressed: KeyD
+[2025-09-03 05:08:18.579] [] key Pressed: KeyD
+[2025-09-03 05:08:19.946] [] key Pressed: Slash
+[2025-09-03 05:08:19.946] [] key Pressed: Slash
+[2025-09-03 05:08:20.503] [] key Pressed: KeyS
+[2025-09-03 05:08:20.503] [] key Pressed: KeyS
+[2025-09-03 05:08:20.821] [] key Pressed: KeyY
+[2025-09-03 05:08:20.821] [] key Pressed: KeyY
+[2025-09-03 05:08:21.012] [] key Pressed: KeyS
+[2025-09-03 05:08:21.012] [] key Pressed: KeyS
+[2025-09-03 05:08:21.378] [] key Pressed: KeyT
+[2025-09-03 05:08:21.378] [] key Pressed: KeyT
+[2025-09-03 05:08:21.549] [] key Pressed: KeyE
+[2025-09-03 05:08:21.549] [] key Pressed: KeyE
+[2025-09-03 05:08:21.896] [] key Pressed: KeyM
+[2025-09-03 05:08:21.896] [] key Pressed: KeyM
+[2025-09-03 05:08:24.042] [] key Pressed: Slash
+[2025-09-03 05:08:24.042] [] key Pressed: Slash
+[2025-09-03 05:08:24.518] [] key Pressed: KeyE
+[2025-09-03 05:08:24.518] [] key Pressed: KeyE
+[2025-09-03 05:08:24.835] [] key Pressed: KeyT
+[2025-09-03 05:08:24.835] [] key Pressed: KeyT
+[2025-09-03 05:08:25.097] [] key Pressed: KeyH
+[2025-09-03 05:08:25.097] [] key Pressed: KeyH
+[2025-09-03 05:08:25.564] [] key Pressed: KeyI
+[2025-09-03 05:08:25.564] [] key Pressed: KeyI
+[2025-09-03 05:08:25.911] [] key Pressed: KeyC
+[2025-09-03 05:08:25.911] [] key Pressed: KeyC
+[2025-09-03 05:08:26.318] [] key Pressed: KeyA
+[2025-09-03 05:08:26.318] [] key Pressed: KeyA
+[2025-09-03 05:08:26.559] [] key Pressed: KeyL
+[2025-09-03 05:08:26.559] [] key Pressed: KeyL
+[2025-09-03 05:08:31.206] [] key Pressed: Minus
+[2025-09-03 05:08:31.206] [] key Pressed: Minus
+[2025-09-03 05:08:32.291] [] key Pressed: KeyK
+[2025-09-03 05:08:32.291] [] key Pressed: KeyK
+[2025-09-03 05:08:32.648] [] key Pressed: KeyE
+[2025-09-03 05:08:32.648] [] key Pressed: KeyE
+[2025-09-03 05:08:32.874] [] key Pressed: KeyY
+[2025-09-03 05:08:32.874] [] key Pressed: KeyY
+[2025-09-03 05:08:34.860] [] key Pressed: KeyL
+[2025-09-03 05:08:34.860] [] key Pressed: KeyL
+[2025-09-03 05:08:35.092] [] key Pressed: KeyO
+[2025-09-03 05:08:35.092] [] key Pressed: KeyO
+[2025-09-03 05:08:35.600] [] key Pressed: KeyG
+[2025-09-03 05:08:35.600] [] key Pressed: KeyG
+[2025-09-03 05:08:35.761] [] key Pressed: KeyG
+[2025-09-03 05:08:35.761] [] key Pressed: KeyG
+[2025-09-03 05:08:35.927] [] key Pressed: KeyE
+[2025-09-03 05:08:35.927] [] key Pressed: KeyE
+[2025-09-03 05:08:36.189] [] key Pressed: KeyR
+[2025-09-03 05:08:36.189] [] key Pressed: KeyR
+[2025-09-03 05:08:37.395] [] key Pressed: Dot
+[2025-09-03 05:08:37.395] [] key Pressed: Dot
+[2025-09-03 05:08:37.717] [] key Pressed: KeyS
+[2025-09-03 05:08:37.717] [] key Pressed: KeyS
+[2025-09-03 05:08:38.144] [] key Pressed: KeyE
+[2025-09-03 05:08:38.144] [] key Pressed: KeyE
+[2025-09-03 05:08:38.355] [] key Pressed: KeyR
+[2025-09-03 05:08:38.355] [] key Pressed: KeyR
+[2025-09-03 05:08:38.671] [] key Pressed: KeyV
+[2025-09-03 05:08:38.671] [] key Pressed: KeyV
+[2025-09-03 05:08:39.170] [] key Pressed: KeyI
+[2025-09-03 05:08:39.170] [] key Pressed: KeyI
+[2025-09-03 05:08:39.526] [] key Pressed: KeyC
+[2025-09-03 05:08:39.526] [] key Pressed: KeyC
+[2025-09-03 05:08:39.893] [] key Pressed: KeyE
+[2025-09-03 05:08:39.893] [] key Pressed: KeyE
+[2025-09-03 05:08:41.802] [] key Pressed: Return
+[2025-09-03 05:08:41.802] [] key Pressed: Return
+[2025-09-03 05:08:43.132] [] key Pressed: CapsLock
+[2025-09-03 05:08:43.132] [] key Pressed: CapsLock
+[2025-09-03 05:08:43.640] [] key Pressed: KeyP
+[2025-09-03 05:08:43.640] [] key Pressed: KeyP
+[2025-09-03 05:08:43.946] [] key Pressed: CapsLock
+[2025-09-03 05:08:43.946] [] key Pressed: CapsLock
+[2025-09-03 05:08:44.280] [] key Pressed: KeyA
+[2025-09-03 05:08:44.280] [] key Pressed: KeyA
+[2025-09-03 05:08:44.697] [] key Pressed: KeyS
+[2025-09-03 05:08:44.697] [] key Pressed: KeyS
+[2025-09-03 05:08:44.868] [] key Pressed: KeyS
+[2025-09-03 05:08:44.868] [] key Pressed: KeyS
+[2025-09-03 05:08:45.145] [] key Pressed: KeyW
+[2025-09-03 05:08:45.145] [] key Pressed: KeyW
+[2025-09-03 05:08:45.461] [] key Pressed: KeyO
+[2025-09-03 05:08:45.461] [] key Pressed: KeyO
+[2025-09-03 05:08:45.774] [] key Pressed: KeyR
+[2025-09-03 05:08:45.774] [] key Pressed: KeyR
+[2025-09-03 05:08:45.989] [] key Pressed: KeyD
+[2025-09-03 05:08:45.989] [] key Pressed: KeyD
+[2025-09-03 05:08:46.457] [] key Pressed: Num1
+[2025-09-03 05:08:46.457] [] key Pressed: Num1
+[2025-09-03 05:08:46.708] [] key Pressed: Num2
+[2025-09-03 05:08:46.708] [] key Pressed: Num2
+[2025-09-03 05:08:47.034] [] key Pressed: Num3
+[2025-09-03 05:08:47.034] [] key Pressed: Num3
+[2025-09-03 05:08:47.582] [] key Pressed: ShiftLeft
+[2025-09-03 05:08:47.582] [] key Pressed: ShiftLeft
+[2025-09-03 05:08:47.914] [] key Pressed: Equal
+[2025-09-03 05:08:47.914] [] key Pressed: Equal
+[2025-09-03 05:08:48.292] [] key Pressed: Equal
+[2025-09-03 05:08:48.292] [] key Pressed: Equal
+[2025-09-03 05:08:48.586] [] key Pressed: Equal
+[2025-09-03 05:08:48.586] [] key Pressed: Equal
+[2025-09-03 05:08:48.983] [] key Pressed: Return
+[2025-09-03 05:08:48.983] [] key Pressed: Return
+[2025-09-03 05:08:54.954] [] key Pressed: LeftBracket
+[2025-09-03 05:08:54.954] [] key Pressed: LeftBracket
+[2025-09-03 05:08:55.880] [] key Pressed: KeyU
+[2025-09-03 05:08:55.880] [] key Pressed: KeyU
+[2025-09-03 05:08:56.195] [] key Pressed: KeyN
+[2025-09-03 05:08:56.195] [] key Pressed: KeyN
+[2025-09-03 05:08:56.541] [] key Pressed: KeyI
+[2025-09-03 05:08:56.541] [] key Pressed: KeyI
+[2025-09-03 05:08:56.965] [] key Pressed: KeyT
+[2025-09-03 05:08:56.965] [] key Pressed: KeyT
+[2025-09-03 05:08:57.859] [] key Pressed: RightBracket
+[2025-09-03 05:08:57.859] [] key Pressed: RightBracket
+[2025-09-03 05:08:58.979] [] key Pressed: ShiftRight
+[2025-09-03 05:08:58.979] [] key Pressed: ShiftRight
+[2025-09-03 05:09:00.131] [] key Pressed: ShiftRight
+[2025-09-03 05:09:00.131] [] key Pressed: ShiftRight
+[2025-09-03 05:09:00.474] [] key Pressed: Return
+[2025-09-03 05:09:00.474] [] key Pressed: Return
+[2025-09-03 05:09:03.615] [] key Pressed: CapsLock
+[2025-09-03 05:09:03.615] [] key Pressed: CapsLock
+[2025-09-03 05:09:03.968] [] key Pressed: KeyD
+[2025-09-03 05:09:03.968] [] key Pressed: KeyD
+[2025-09-03 05:09:04.113] [] key Pressed: CapsLock
+[2025-09-03 05:09:04.113] [] key Pressed: CapsLock
+[2025-09-03 05:09:04.344] [] key Pressed: KeyE
+[2025-09-03 05:09:04.344] [] key Pressed: KeyE
+[2025-09-03 05:09:04.611] [] key Pressed: KeyS
+[2025-09-03 05:09:04.611] [] key Pressed: KeyS
+[2025-09-03 05:09:05.054] [] key Pressed: KeyC
+[2025-09-03 05:09:05.054] [] key Pressed: KeyC
+[2025-09-03 05:09:05.270] [] key Pressed: KeyR
+[2025-09-03 05:09:05.270] [] key Pressed: KeyR
+[2025-09-03 05:09:05.727] [] key Pressed: KeyI
+[2025-09-03 05:09:05.727] [] key Pressed: KeyI
+[2025-09-03 05:09:06.103] [] key Pressed: KeyP
+[2025-09-03 05:09:06.103] [] key Pressed: KeyP
+[2025-09-03 05:09:06.488] [] key Pressed: KeyT
+[2025-09-03 05:09:06.488] [] key Pressed: KeyT
+[2025-09-03 05:09:06.742] [] key Pressed: KeyI
+[2025-09-03 05:09:06.742] [] key Pressed: KeyI
+[2025-09-03 05:09:06.944] [] key Pressed: KeyO
+[2025-09-03 05:09:06.944] [] key Pressed: KeyO
+[2025-09-03 05:09:07.280] [] key Pressed: KeyN
+[2025-09-03 05:09:07.280] [] key Pressed: KeyN
+[2025-09-03 05:09:09.640] [] key Pressed: Equal
+[2025-09-03 05:09:09.640] [] key Pressed: Equal
+[2025-09-03 05:09:09.963] [] key Pressed: CapsLock
+[2025-09-03 05:09:09.963] [] key Pressed: CapsLock
+[2025-09-03 05:09:10.451] [] key Pressed: KeyE
+[2025-09-03 05:09:10.451] [] key Pressed: KeyE
+[2025-09-03 05:09:10.646] [] key Pressed: CapsLock
+[2025-09-03 05:09:10.646] [] key Pressed: CapsLock
+[2025-09-03 05:09:11.374] [] key Pressed: KeyT
+[2025-09-03 05:09:11.374] [] key Pressed: KeyT
+[2025-09-03 05:09:11.700] [] key Pressed: KeyH
+[2025-09-03 05:09:11.700] [] key Pressed: KeyH
+[2025-09-03 05:09:12.147] [] key Pressed: KeyI
+[2025-09-03 05:09:12.147] [] key Pressed: KeyI
+[2025-09-03 05:09:12.490] [] key Pressed: KeyC
+[2025-09-03 05:09:12.490] [] key Pressed: KeyC
+[2025-09-03 05:09:12.927] [] key Pressed: KeyA
+[2025-09-03 05:09:12.927] [] key Pressed: KeyA
+[2025-09-03 05:09:13.265] [] key Pressed: KeyL
+[2025-09-03 05:09:13.265] [] key Pressed: KeyL
+[2025-09-03 05:09:14.116] [] key Pressed: Space
+[2025-09-03 05:09:14.116] [] key Pressed: Space
+[2025-09-03 05:09:15.324] [] key Pressed: CapsLock
+[2025-09-03 05:09:15.324] [] key Pressed: CapsLock
+[2025-09-03 05:09:15.891] [] key Pressed: KeyL
+[2025-09-03 05:09:15.891] [] key Pressed: KeyL
+[2025-09-03 05:09:16.439] [] key Pressed: Backspace
+[2025-09-03 05:09:16.439] [] key Pressed: Backspace
+[2025-09-03 05:09:16.957] [] key Pressed: KeyK
+[2025-09-03 05:09:16.957] [] key Pressed: KeyK
+[2025-09-03 05:09:17.192] [] key Pressed: CapsLock
+[2025-09-03 05:09:17.192] [] key Pressed: CapsLock
+[2025-09-03 05:09:17.830] [] key Pressed: KeyE
+[2025-09-03 05:09:17.830] [] key Pressed: KeyE
+[2025-09-03 05:09:18.092] [] key Pressed: KeyY
+[2025-09-03 05:09:18.092] [] key Pressed: KeyY
+[2025-09-03 05:09:18.570] [] key Pressed: KeyL
+[2025-09-03 05:09:18.570] [] key Pressed: KeyL
+[2025-09-03 05:09:18.826] [] key Pressed: KeyO
+[2025-09-03 05:09:18.826] [] key Pressed: KeyO
+[2025-09-03 05:09:19.344] [] key Pressed: KeyG
+[2025-09-03 05:09:19.344] [] key Pressed: KeyG
+[2025-09-03 05:09:19.495] [] key Pressed: KeyG
+[2025-09-03 05:09:19.495] [] key Pressed: KeyG
+[2025-09-03 05:09:19.666] [] key Pressed: KeyE
+[2025-09-03 05:09:19.666] [] key Pressed: KeyE
+[2025-09-03 05:09:19.882] [] key Pressed: KeyR
+[2025-09-03 05:09:19.882] [] key Pressed: KeyR
+[2025-09-03 05:09:21.188] [] key Pressed: Space
+[2025-09-03 05:09:21.188] [] key Pressed: Space
+[2025-09-03 05:09:21.807] [] key Pressed: CapsLock
+[2025-09-03 05:09:21.807] [] key Pressed: CapsLock
+[2025-09-03 05:09:22.234] [] key Pressed: KeyS
+[2025-09-03 05:09:22.234] [] key Pressed: KeyS
+[2025-09-03 05:09:22.547] [] key Pressed: CapsLock
+[2025-09-03 05:09:22.547] [] key Pressed: CapsLock
+[2025-09-03 05:09:22.933] [] key Pressed: KeyE
+[2025-09-03 05:09:22.933] [] key Pressed: KeyE
+[2025-09-03 05:09:23.145] [] key Pressed: KeyR
+[2025-09-03 05:09:23.145] [] key Pressed: KeyR
+[2025-09-03 05:09:23.492] [] key Pressed: KeyV
+[2025-09-03 05:09:23.492] [] key Pressed: KeyV
+[2025-09-03 05:09:24.010] [] key Pressed: KeyI
+[2025-09-03 05:09:24.010] [] key Pressed: KeyI
+[2025-09-03 05:09:24.328] [] key Pressed: KeyC
+[2025-09-03 05:09:24.328] [] key Pressed: KeyC
+[2025-09-03 05:09:24.714] [] key Pressed: KeyE
+[2025-09-03 05:09:24.714] [] key Pressed: KeyE
+[2025-09-03 05:09:26.436] [] key Pressed: ShiftRight
+[2025-09-03 05:09:26.436] [] key Pressed: ShiftRight
+[2025-09-03 05:09:26.752] [] key Pressed: Return
+[2025-09-03 05:09:26.752] [] key Pressed: Return
+[2025-09-03 05:09:27.664] [] key Pressed: KeyA
+[2025-09-03 05:09:27.664] [] key Pressed: KeyA
+[2025-09-03 05:09:29.009] [] key Pressed: Backspace
+[2025-09-03 05:09:29.009] [] key Pressed: Backspace
+[2025-09-03 05:09:29.253] [] key Pressed: CapsLock
+[2025-09-03 05:09:29.253] [] key Pressed: CapsLock
+[2025-09-03 05:09:29.607] [] key Pressed: KeyA
+[2025-09-03 05:09:29.607] [] key Pressed: KeyA
+[2025-09-03 05:09:29.984] [] key Pressed: CapsLock
+[2025-09-03 05:09:29.984] [] key Pressed: CapsLock
+[2025-09-03 05:09:30.898] [] key Pressed: KeyF
+[2025-09-03 05:09:30.898] [] key Pressed: KeyF
+[2025-09-03 05:09:31.275] [] key Pressed: KeyT
+[2025-09-03 05:09:31.275] [] key Pressed: KeyT
+[2025-09-03 05:09:31.406] [] key Pressed: KeyE
+[2025-09-03 05:09:31.406] [] key Pressed: KeyE
+[2025-09-03 05:09:31.618] [] key Pressed: KeyR
+[2025-09-03 05:09:31.618] [] key Pressed: KeyR
+[2025-09-03 05:09:33.711] [] key Pressed: Equal
+[2025-09-03 05:09:33.711] [] key Pressed: Equal
+[2025-09-03 05:09:35.472] [] key Pressed: KeyN
+[2025-09-03 05:09:35.472] [] key Pressed: KeyN
+[2025-09-03 05:09:35.799] [] key Pressed: KeyE
+[2025-09-03 05:09:35.799] [] key Pressed: KeyE
+[2025-09-03 05:09:36.030] [] key Pressed: KeyT
+[2025-09-03 05:09:36.030] [] key Pressed: KeyT
+[2025-09-03 05:09:36.539] [] key Pressed: KeyW
+[2025-09-03 05:09:36.539] [] key Pressed: KeyW
+[2025-09-03 05:09:36.854] [] key Pressed: KeyO
+[2025-09-03 05:09:36.854] [] key Pressed: KeyO
+[2025-09-03 05:09:37.197] [] key Pressed: KeyR
+[2025-09-03 05:09:37.197] [] key Pressed: KeyR
+[2025-09-03 05:09:37.594] [] key Pressed: KeyK
+[2025-09-03 05:09:37.594] [] key Pressed: KeyK
+[2025-09-03 05:09:39.527] [] key Pressed: Dot
+[2025-09-03 05:09:39.527] [] key Pressed: Dot
+[2025-09-03 05:09:40.104] [] key Pressed: KeyT
+[2025-09-03 05:09:40.104] [] key Pressed: KeyT
+[2025-09-03 05:09:40.491] [] key Pressed: KeyA
+[2025-09-03 05:09:40.491] [] key Pressed: KeyA
+[2025-09-03 05:09:40.804] [] key Pressed: KeyR
+[2025-09-03 05:09:40.804] [] key Pressed: KeyR
+[2025-09-03 05:09:41.110] [] key Pressed: KeyG
+[2025-09-03 05:09:41.110] [] key Pressed: KeyG
+[2025-09-03 05:09:41.345] [] key Pressed: KeyE
+[2025-09-03 05:09:41.345] [] key Pressed: KeyE
+[2025-09-03 05:09:41.587] [] key Pressed: KeyT
+[2025-09-03 05:09:41.587] [] key Pressed: KeyT
+[2025-09-03 05:09:43.638] [] key Pressed: ShiftRight
+[2025-09-03 05:09:43.638] [] key Pressed: ShiftRight
+[2025-09-03 05:09:43.893] [] key Pressed: Return
+[2025-09-03 05:09:43.893] [] key Pressed: Return
+[2025-09-03 05:09:44.246] [] key Pressed: Return
+[2025-09-03 05:09:44.246] [] key Pressed: Return
+[2025-09-03 05:09:44.692] [] key Pressed: Return
+[2025-09-03 05:09:44.692] [] key Pressed: Return
+[2025-09-03 05:09:46.280] [] key Pressed: Backspace
+[2025-09-03 05:09:46.280] [] key Pressed: Backspace
+[2025-09-03 05:09:47.850] [] key Pressed: LeftBracket
+[2025-09-03 05:09:47.850] [] key Pressed: LeftBracket
+[2025-09-03 05:09:51.352] [] key Pressed: CapsLock
+[2025-09-03 05:09:51.352] [] key Pressed: CapsLock
+[2025-09-03 05:09:51.974] [] key Pressed: KeyS
+[2025-09-03 05:09:51.974] [] key Pressed: KeyS
+[2025-09-03 05:09:52.357] [] key Pressed: CapsLock
+[2025-09-03 05:09:52.357] [] key Pressed: CapsLock
+[2025-09-03 05:09:52.724] [] key Pressed: KeyE
+[2025-09-03 05:09:52.724] [] key Pressed: KeyE
+[2025-09-03 05:09:52.949] [] key Pressed: KeyR
+[2025-09-03 05:09:52.949] [] key Pressed: KeyR
+[2025-09-03 05:09:53.332] [] key Pressed: KeyV
+[2025-09-03 05:09:53.332] [] key Pressed: KeyV
+[2025-09-03 05:09:54.016] [] key Pressed: KeyI
+[2025-09-03 05:09:54.016] [] key Pressed: KeyI
+[2025-09-03 05:09:54.423] [] key Pressed: KeyC
+[2025-09-03 05:09:54.423] [] key Pressed: KeyC
+[2025-09-03 05:09:54.615] [] key Pressed: KeyE
+[2025-09-03 05:09:54.615] [] key Pressed: KeyE
+[2025-09-03 05:09:55.681] [] key Pressed: RightBracket
+[2025-09-03 05:09:55.681] [] key Pressed: RightBracket
+[2025-09-03 05:09:56.705] [] key Pressed: ShiftRight
+[2025-09-03 05:09:56.705] [] key Pressed: ShiftRight
+[2025-09-03 05:09:57.031] [] key Pressed: Return
+[2025-09-03 05:09:57.031] [] key Pressed: Return
+[2025-09-03 05:09:58.691] [] key Pressed: CapsLock
+[2025-09-03 05:09:58.691] [] key Pressed: CapsLock
+[2025-09-03 05:09:59.249] [] key Pressed: KeyT
+[2025-09-03 05:09:59.249] [] key Pressed: KeyT
+[2025-09-03 05:09:59.410] [] key Pressed: CapsLock
+[2025-09-03 05:09:59.410] [] key Pressed: CapsLock
+[2025-09-03 05:09:59.767] [] key Pressed: KeyY
+[2025-09-03 05:09:59.767] [] key Pressed: KeyY
+[2025-09-03 05:10:00.245] [] key Pressed: KeyP
+[2025-09-03 05:10:00.246] [] key Pressed: KeyP
+[2025-09-03 05:10:00.582] [] key Pressed: KeyE
+[2025-09-03 05:10:00.582] [] key Pressed: KeyE
+[2025-09-03 05:10:02.552] [] key Pressed: Equal
+[2025-09-03 05:10:02.552] [] key Pressed: Equal
+[2025-09-03 05:10:03.070] [] key Pressed: KeyS
+[2025-09-03 05:10:03.070] [] key Pressed: KeyS
+[2025-09-03 05:10:03.342] [] key Pressed: KeyU
+[2025-09-03 05:10:03.342] [] key Pressed: KeyU
+[2025-09-03 05:10:03.892] [] key Pressed: Equal
+[2025-09-03 05:10:03.892] [] key Pressed: Equal
+[2025-09-03 05:10:04.604] [] key Pressed: Backspace
+[2025-09-03 05:10:04.604] [] key Pressed: Backspace
+[2025-09-03 05:10:05.011] [] key Pressed: Backspace
+[2025-09-03 05:10:05.011] [] key Pressed: Backspace
+[2025-09-03 05:10:05.900] [] key Pressed: KeyI
+[2025-09-03 05:10:05.900] [] key Pressed: KeyI
+[2025-09-03 05:10:06.186] [] key Pressed: KeyM
+[2025-09-03 05:10:06.186] [] key Pressed: KeyM
+[2025-09-03 05:10:06.625] [] key Pressed: KeyP
+[2025-09-03 05:10:06.625] [] key Pressed: KeyP
+[2025-09-03 05:10:06.877] [] key Pressed: KeyL
+[2025-09-03 05:10:06.877] [] key Pressed: KeyL
+[2025-09-03 05:10:07.292] [] key Pressed: KeyE
+[2025-09-03 05:10:07.292] [] key Pressed: KeyE
+[2025-09-03 05:10:09.459] [] key Pressed: ShiftRight
+[2025-09-03 05:10:09.459] [] key Pressed: ShiftRight
+[2025-09-03 05:10:09.766] [] key Pressed: Return
+[2025-09-03 05:10:09.766] [] key Pressed: Return
+[2025-09-03 05:10:11.335] [] key Pressed: CapsLock
+[2025-09-03 05:10:11.335] [] key Pressed: CapsLock
+[2025-09-03 05:10:12.087] [] key Pressed: KeyU
+[2025-09-03 05:10:12.087] [] key Pressed: KeyU
+[2025-09-03 05:10:12.259] [] key Pressed: CapsLock
+[2025-09-03 05:10:12.259] [] key Pressed: CapsLock
+[2025-09-03 05:10:12.667] [] key Pressed: KeyS
+[2025-09-03 05:10:12.667] [] key Pressed: KeyS
+[2025-09-03 05:10:12.999] [] key Pressed: KeyE
+[2025-09-03 05:10:12.999] [] key Pressed: KeyE
+[2025-09-03 05:10:13.264] [] key Pressed: KeyR
+[2025-09-03 05:10:13.264] [] key Pressed: KeyR
+[2025-09-03 05:10:15.107] [] key Pressed: Equal
+[2025-09-03 05:10:15.107] [] key Pressed: Equal
+[2025-09-03 05:10:16.225] [] key Pressed: KeyH
+[2025-09-03 05:10:16.225] [] key Pressed: KeyH
+[2025-09-03 05:10:16.517] [] key Pressed: KeyA
+[2025-09-03 05:10:16.517] [] key Pressed: KeyA
+[2025-09-03 05:10:16.833] [] key Pressed: KeyZ
+[2025-09-03 05:10:16.833] [] key Pressed: KeyZ
+[2025-09-03 05:10:17.054] [] key Pressed: KeyZ
+[2025-09-03 05:10:17.054] [] key Pressed: KeyZ
+[2025-09-03 05:10:17.310] [] key Pressed: KeyA
+[2025-09-03 05:10:17.310] [] key Pressed: KeyA
+[2025-09-03 05:10:18.344] [] key Pressed: ShiftLeft
+[2025-09-03 05:10:18.344] [] key Pressed: ShiftLeft
+[2025-09-03 05:10:19.220] [] key Pressed: Minus
+[2025-09-03 05:10:19.220] [] key Pressed: Minus
+[2025-09-03 05:10:19.809] [] key Pressed: KeyH
+[2025-09-03 05:10:19.809] [] key Pressed: KeyH
+[2025-09-03 05:10:20.050] [] key Pressed: KeyA
+[2025-09-03 05:10:20.050] [] key Pressed: KeyA
+[2025-09-03 05:10:20.437] [] key Pressed: KeyC
+[2025-09-03 05:10:20.437] [] key Pressed: KeyC
+[2025-09-03 05:10:20.944] [] key Pressed: KeyK
+[2025-09-03 05:10:20.944] [] key Pressed: KeyK
+[2025-09-03 05:10:22.958] [] key Pressed: ShiftRight
+[2025-09-03 05:10:22.958] [] key Pressed: ShiftRight
+[2025-09-03 05:10:23.405] [] key Pressed: Return
+[2025-09-03 05:10:23.405] [] key Pressed: Return
+[2025-09-03 05:10:24.341] [] key Pressed: CapsLock
+[2025-09-03 05:10:24.341] [] key Pressed: CapsLock
+[2025-09-03 05:10:25.090] [] key Pressed: KeyE
+[2025-09-03 05:10:25.090] [] key Pressed: KeyE
+[2025-09-03 05:10:25.446] [] key Pressed: CapsLock
+[2025-09-03 05:10:25.446] [] key Pressed: CapsLock
+[2025-09-03 05:10:25.914] [] key Pressed: KeyX
+[2025-09-03 05:10:25.914] [] key Pressed: KeyX
+[2025-09-03 05:10:26.938] [] key Pressed: KeyE
+[2025-09-03 05:10:26.938] [] key Pressed: KeyE
+[2025-09-03 05:10:27.691] [] key Pressed: KeyC
+[2025-09-03 05:10:27.691] [] key Pressed: KeyC
+[2025-09-03 05:10:28.767] [] key Pressed: CapsLock
+[2025-09-03 05:10:28.767] [] key Pressed: CapsLock
+[2025-09-03 05:10:29.204] [] key Pressed: KeyS
+[2025-09-03 05:10:29.204] [] key Pressed: KeyS
+[2025-09-03 05:10:29.597] [] key Pressed: CapsLock
+[2025-09-03 05:10:29.597] [] key Pressed: CapsLock
+[2025-09-03 05:10:30.920] [] key Pressed: KeyT
+[2025-09-03 05:10:30.920] [] key Pressed: KeyT
+[2025-09-03 05:10:31.387] [] key Pressed: KeyA
+[2025-09-03 05:10:31.387] [] key Pressed: KeyA
+[2025-09-03 05:10:31.618] [] key Pressed: KeyR
+[2025-09-03 05:10:31.618] [] key Pressed: KeyR
+[2025-09-03 05:10:31.924] [] key Pressed: KeyT
+[2025-09-03 05:10:31.924] [] key Pressed: KeyT
+[2025-09-03 05:10:34.737] [] key Pressed: Equal
+[2025-09-03 05:10:34.737] [] key Pressed: Equal
+[2025-09-03 05:10:35.287] [] key Pressed: Slash
+[2025-09-03 05:10:35.287] [] key Pressed: Slash
+[2025-09-03 05:10:36.539] [] key Pressed: KeyH
+[2025-09-03 05:10:36.539] [] key Pressed: KeyH
+[2025-09-03 05:10:37.007] [] key Pressed: KeyO
+[2025-09-03 05:10:37.007] [] key Pressed: KeyO
+[2025-09-03 05:10:37.312] [] key Pressed: KeyM
+[2025-09-03 05:10:37.312] [] key Pressed: KeyM
+[2025-09-03 05:10:37.645] [] key Pressed: KeyE
+[2025-09-03 05:10:37.645] [] key Pressed: KeyE
+[2025-09-03 05:10:38.104] [] key Pressed: Slash
+[2025-09-03 05:10:38.104] [] key Pressed: Slash
+[2025-09-03 05:10:39.319] [] key Pressed: KeyH
+[2025-09-03 05:10:39.319] [] key Pressed: KeyH
+[2025-09-03 05:10:39.702] [] key Pressed: KeyA
+[2025-09-03 05:10:39.702] [] key Pressed: KeyA
+[2025-09-03 05:10:40.080] [] key Pressed: KeyZ
+[2025-09-03 05:10:40.080] [] key Pressed: KeyZ
+[2025-09-03 05:10:40.597] [] key Pressed: KeyZ
+[2025-09-03 05:10:40.597] [] key Pressed: KeyZ
+[2025-09-03 05:10:40.904] [] key Pressed: KeyA
+[2025-09-03 05:10:40.904] [] key Pressed: KeyA
+[2025-09-03 05:10:42.071] [] key Pressed: ShiftLeft
+[2025-09-03 05:10:42.071] [] key Pressed: ShiftLeft
+[2025-09-03 05:10:42.539] [] key Pressed: Minus
+[2025-09-03 05:10:42.539] [] key Pressed: Minus
+[2025-09-03 05:10:43.028] [] key Pressed: KeyH
+[2025-09-03 05:10:43.028] [] key Pressed: KeyH
+[2025-09-03 05:10:43.353] [] key Pressed: KeyA
+[2025-09-03 05:10:43.353] [] key Pressed: KeyA
+[2025-09-03 05:10:43.584] [] key Pressed: KeyC
+[2025-09-03 05:10:43.584] [] key Pressed: KeyC
+[2025-09-03 05:10:44.225] [] key Pressed: KeyK
+[2025-09-03 05:10:44.225] [] key Pressed: KeyK
+[2025-09-03 05:10:46.293] [] key Pressed: Slash
+[2025-09-03 05:10:46.293] [] key Pressed: Slash
+[2025-09-03 05:10:47.103] [] key Pressed: KeyE
+[2025-09-03 05:10:47.103] [] key Pressed: KeyE
+[2025-09-03 05:10:47.410] [] key Pressed: KeyT
+[2025-09-03 05:10:47.410] [] key Pressed: KeyT
+[2025-09-03 05:10:47.651] [] key Pressed: KeyH
+[2025-09-03 05:10:47.651] [] key Pressed: KeyH
+[2025-09-03 05:10:48.087] [] key Pressed: KeyI
+[2025-09-03 05:10:48.087] [] key Pressed: KeyI
+[2025-09-03 05:10:48.363] [] key Pressed: KeyC
+[2025-09-03 05:10:48.363] [] key Pressed: KeyC
+[2025-09-03 05:10:48.726] [] key Pressed: KeyA
+[2025-09-03 05:10:48.726] [] key Pressed: KeyA
+[2025-09-03 05:10:49.084] [] key Pressed: KeyL
+[2025-09-03 05:10:49.084] [] key Pressed: KeyL
+[2025-09-03 05:10:50.792] [] key Pressed: ShiftLeft
+[2025-09-03 05:10:50.791] [] key Pressed: ShiftLeft
+[2025-09-03 05:10:51.207] [] key Pressed: Minus
+[2025-09-03 05:10:51.207] [] key Pressed: Minus
+[2025-09-03 05:10:57.380] [] key Pressed: KeyK
+[2025-09-03 05:10:57.380] [] key Pressed: KeyK
+[2025-09-03 05:10:57.651] [] key Pressed: KeyE
+[2025-09-03 05:10:57.651] [] key Pressed: KeyE
+[2025-09-03 05:10:57.959] [] key Pressed: KeyY
+[2025-09-03 05:10:57.959] [] key Pressed: KeyY
+[2025-09-03 05:10:59.255] [] key Pressed: KeyL
+[2025-09-03 05:10:59.255] [] key Pressed: KeyL
+[2025-09-03 05:10:59.491] [] key Pressed: KeyO
+[2025-09-03 05:10:59.491] [] key Pressed: KeyO
+[2025-09-03 05:10:59.988] [] key Pressed: KeyG
+[2025-09-03 05:10:59.988] [] key Pressed: KeyG
+[2025-09-03 05:11:00.149] [] key Pressed: KeyG
+[2025-09-03 05:11:00.149] [] key Pressed: KeyG
+[2025-09-03 05:11:00.240] [] key Pressed: KeyE
+[2025-09-03 05:11:00.240] [] key Pressed: KeyE
+[2025-09-03 05:11:00.466] [] key Pressed: KeyR
+[2025-09-03 05:11:00.466] [] key Pressed: KeyR
+[2025-09-03 05:11:01.713] [] key Pressed: Slash
+[2025-09-03 05:11:01.713] [] key Pressed: Slash
+[2025-09-03 05:11:02.312] [] key Pressed: KeyT
+[2025-09-03 05:11:02.312] [] key Pressed: KeyT
+[2025-09-03 05:11:02.709] [] key Pressed: KeyA
+[2025-09-03 05:11:02.709] [] key Pressed: KeyA
+[2025-09-03 05:11:02.923] [] key Pressed: KeyR
+[2025-09-03 05:11:02.923] [] key Pressed: KeyR
+[2025-09-03 05:11:03.297] [] key Pressed: KeyG
+[2025-09-03 05:11:03.297] [] key Pressed: KeyG
+[2025-09-03 05:11:03.482] [] key Pressed: KeyE
+[2025-09-03 05:11:03.482] [] key Pressed: KeyE
+[2025-09-03 05:11:03.684] [] key Pressed: KeyT
+[2025-09-03 05:11:03.684] [] key Pressed: KeyT
+[2025-09-03 05:11:05.672] [] key Pressed: Slash
+[2025-09-03 05:11:05.672] [] key Pressed: Slash
+[2025-09-03 05:11:06.310] [] key Pressed: KeyR
+[2025-09-03 05:11:06.310] [] key Pressed: KeyR
+[2025-09-03 05:11:06.526] [] key Pressed: KeyE
+[2025-09-03 05:11:06.526] [] key Pressed: KeyE
+[2025-09-03 05:11:06.963] [] key Pressed: KeyL
+[2025-09-03 05:11:06.963] [] key Pressed: KeyL
+[2025-09-03 05:11:07.266] [] key Pressed: KeyE
+[2025-09-03 05:11:07.266] [] key Pressed: KeyE
+[2025-09-03 05:11:07.593] [] key Pressed: KeyA
+[2025-09-03 05:11:07.593] [] key Pressed: KeyA
+[2025-09-03 05:11:07.874] [] key Pressed: KeyS
+[2025-09-03 05:11:07.874] [] key Pressed: KeyS
+[2025-09-03 05:11:08.131] [] key Pressed: KeyE
+[2025-09-03 05:11:08.131] [] key Pressed: KeyE
+[2025-09-03 05:11:09.920] [] key Pressed: Slash
+[2025-09-03 05:11:09.920] [] key Pressed: Slash
+[2025-09-03 05:11:11.179] [] key Pressed: KeyE
+[2025-09-03 05:11:11.179] [] key Pressed: KeyE
+[2025-09-03 05:11:11.556] [] key Pressed: KeyT
+[2025-09-03 05:11:11.556] [] key Pressed: KeyT
+[2025-09-03 05:11:11.888] [] key Pressed: KeyH
+[2025-09-03 05:11:11.888] [] key Pressed: KeyH
+[2025-09-03 05:11:12.384] [] key Pressed: KeyI
+[2025-09-03 05:11:12.384] [] key Pressed: KeyI
+[2025-09-03 05:11:12.661] [] key Pressed: KeyC
+[2025-09-03 05:11:12.661] [] key Pressed: KeyC
+[2025-09-03 05:11:13.038] [] key Pressed: KeyA
+[2025-09-03 05:11:13.038] [] key Pressed: KeyA
+[2025-09-03 05:11:13.350] [] key Pressed: KeyL
+[2025-09-03 05:11:13.350] [] key Pressed: KeyL
+[2025-09-03 05:11:13.796] [] key Pressed: ShiftLeft
+[2025-09-03 05:11:13.796] [] key Pressed: ShiftLeft
+[2025-09-03 05:11:14.256] [] key Pressed: Minus
+[2025-09-03 05:11:14.256] [] key Pressed: Minus
+[2025-09-03 05:11:15.269] [] key Pressed: KeyK
+[2025-09-03 05:11:15.269] [] key Pressed: KeyK
+[2025-09-03 05:11:15.496] [] key Pressed: KeyE
+[2025-09-03 05:11:15.496] [] key Pressed: KeyE
+[2025-09-03 05:11:15.767] [] key Pressed: KeyY
+[2025-09-03 05:11:15.767] [] key Pressed: KeyY
+[2025-09-03 05:11:18.364] [] key Pressed: KeyL
+[2025-09-03 05:11:18.364] [] key Pressed: KeyL
+[2025-09-03 05:11:18.611] [] key Pressed: KeyO
+[2025-09-03 05:11:18.611] [] key Pressed: KeyO
+[2025-09-03 05:11:19.057] [] key Pressed: KeyG
+[2025-09-03 05:11:19.057] [] key Pressed: KeyG
+[2025-09-03 05:11:19.199] [] key Pressed: KeyG
+[2025-09-03 05:11:19.199] [] key Pressed: KeyG
+[2025-09-03 05:11:19.341] [] key Pressed: KeyE
+[2025-09-03 05:11:19.341] [] key Pressed: KeyE
+[2025-09-03 05:11:19.585] [] key Pressed: KeyR
+[2025-09-03 05:11:19.585] [] key Pressed: KeyR
+[2025-09-03 05:11:24.665] [] key Pressed: ShiftRight
+[2025-09-03 05:11:24.665] [] key Pressed: ShiftRight
+[2025-09-03 05:11:25.018] [] key Pressed: Return
+[2025-09-03 05:11:25.018] [] key Pressed: Return
+[2025-09-03 05:11:26.373] [] key Pressed: CapsLock
+[2025-09-03 05:11:26.373] [] key Pressed: CapsLock
+[2025-09-03 05:11:26.740] [] key Pressed: KeyR
+[2025-09-03 05:11:26.740] [] key Pressed: KeyR
+[2025-09-03 05:11:26.931] [] key Pressed: CapsLock
+[2025-09-03 05:11:26.931] [] key Pressed: CapsLock
+[2025-09-03 05:11:27.136] [] key Pressed: KeyE
+[2025-09-03 05:11:27.136] [] key Pressed: KeyE
+[2025-09-03 05:11:27.448] [] key Pressed: KeyS
+[2025-09-03 05:11:27.448] [] key Pressed: KeyS
+[2025-09-03 05:11:27.855] [] key Pressed: KeyT
+[2025-09-03 05:11:27.855] [] key Pressed: KeyT
+[2025-09-03 05:11:28.183] [] key Pressed: KeyA
+[2025-09-03 05:11:28.183] [] key Pressed: KeyA
+[2025-09-03 05:11:28.374] [] key Pressed: KeyR
+[2025-09-03 05:11:28.374] [] key Pressed: KeyR
+[2025-09-03 05:11:28.555] [] key Pressed: KeyT
+[2025-09-03 05:11:28.556] [] key Pressed: KeyT
+[2025-09-03 05:11:30.848] [] key Pressed: Equal
+[2025-09-03 05:11:30.848] [] key Pressed: Equal
+[2025-09-03 05:11:31.884] [] key Pressed: KeyA
+[2025-09-03 05:11:31.884] [] key Pressed: KeyA
+[2025-09-03 05:11:32.261] [] key Pressed: KeyL
+[2025-09-03 05:11:32.261] [] key Pressed: KeyL
+[2025-09-03 05:11:36.292] [] key Pressed: KeyW
+[2025-09-03 05:11:36.292] [] key Pressed: KeyW
+[2025-09-03 05:11:36.614] [] key Pressed: KeyA
+[2025-09-03 05:11:36.614] [] key Pressed: KeyA
+[2025-09-03 05:11:36.871] [] key Pressed: KeyY
+[2025-09-03 05:11:36.871] [] key Pressed: KeyY
+[2025-09-03 05:11:37.092] [] key Pressed: KeyS
+[2025-09-03 05:11:37.092] [] key Pressed: KeyS
+[2025-09-03 05:11:43.329] [] key Pressed: ShiftRight
+[2025-09-03 05:11:43.329] [] key Pressed: ShiftRight
+[2025-09-03 05:11:43.661] [] key Pressed: Return
+[2025-09-03 05:11:43.661] [] key Pressed: Return
+[2025-09-03 05:11:44.677] [] key Pressed: CapsLock
+[2025-09-03 05:11:44.677] [] key Pressed: CapsLock
+[2025-09-03 05:11:45.308] [] key Pressed: KeyR
+[2025-09-03 05:11:45.308] [] key Pressed: KeyR
+[2025-09-03 05:11:45.459] [] key Pressed: CapsLock
+[2025-09-03 05:11:45.459] [] key Pressed: CapsLock
+[2025-09-03 05:11:45.681] [] key Pressed: KeyE
+[2025-09-03 05:11:45.681] [] key Pressed: KeyE
+[2025-09-03 05:11:46.455] [] key Pressed: KeyS
+[2025-09-03 05:11:46.455] [] key Pressed: KeyS
+[2025-09-03 05:11:47.501] [] key Pressed: KeyT
+[2025-09-03 05:11:47.501] [] key Pressed: KeyT
+[2025-09-03 05:11:47.726] [] key Pressed: KeyA
+[2025-09-03 05:11:47.726] [] key Pressed: KeyA
+[2025-09-03 05:11:47.998] [] key Pressed: KeyR
+[2025-09-03 05:11:47.998] [] key Pressed: KeyR
+[2025-09-03 05:11:48.190] [] key Pressed: KeyT
+[2025-09-03 05:11:48.190] [] key Pressed: KeyT
+[2025-09-03 05:11:49.074] [] key Pressed: CapsLock
+[2025-09-03 05:11:49.074] [] key Pressed: CapsLock
+[2025-09-03 05:11:49.758] [] key Pressed: KeyS
+[2025-09-03 05:11:49.758] [] key Pressed: KeyS
+[2025-09-03 05:11:49.852] [] key Pressed: CapsLock
+[2025-09-03 05:11:49.852] [] key Pressed: CapsLock
+[2025-09-03 05:11:50.120] [] key Pressed: KeyE
+[2025-09-03 05:11:50.120] [] key Pressed: KeyE
+[2025-09-03 05:11:50.446] [] key Pressed: KeyC
+[2025-09-03 05:11:50.446] [] key Pressed: KeyC
+[2025-09-03 05:11:51.421] [] key Pressed: Equal
+[2025-09-03 05:11:51.421] [] key Pressed: Equal
+[2025-09-03 05:11:52.726] [] key Pressed: Num3
+[2025-09-03 05:11:52.726] [] key Pressed: Num3
+[2025-09-03 05:11:54.035] [] key Pressed: ShiftRight
+[2025-09-03 05:11:54.035] [] key Pressed: ShiftRight
+[2025-09-03 05:11:54.322] [] key Pressed: Return
+[2025-09-03 05:11:54.322] [] key Pressed: Return
+[2025-09-03 05:11:54.574] [] key Pressed: Return
+[2025-09-03 05:11:54.574] [] key Pressed: Return
+[2025-09-03 05:11:57.477] [] key Pressed: LeftBracket
+[2025-09-03 05:11:57.477] [] key Pressed: LeftBracket
+[2025-09-03 05:12:00.020] [] key Pressed: CapsLock
+[2025-09-03 05:12:00.020] [] key Pressed: CapsLock
+[2025-09-03 05:12:00.417] [] key Pressed: KeyI
+[2025-09-03 05:12:00.417] [] key Pressed: KeyI
+[2025-09-03 05:12:00.618] [] key Pressed: CapsLock
+[2025-09-03 05:12:00.618] [] key Pressed: CapsLock
+[2025-09-03 05:12:00.834] [] key Pressed: KeyN
+[2025-09-03 05:12:00.834] [] key Pressed: KeyN
+[2025-09-03 05:12:01.236] [] key Pressed: KeyS
+[2025-09-03 05:12:01.236] [] key Pressed: KeyS
+[2025-09-03 05:12:01.513] [] key Pressed: KeyT
+[2025-09-03 05:12:01.513] [] key Pressed: KeyT
+[2025-09-03 05:12:01.744] [] key Pressed: KeyA
+[2025-09-03 05:12:01.744] [] key Pressed: KeyA
+[2025-09-03 05:12:02.486] [] key Pressed: KeyL
+[2025-09-03 05:12:02.486] [] key Pressed: KeyL
+[2025-09-03 05:12:02.895] [] key Pressed: KeyL
+[2025-09-03 05:12:02.895] [] key Pressed: KeyL
+[2025-09-03 05:12:03.350] [] key Pressed: ShiftLeft
+[2025-09-03 05:12:03.350] [] key Pressed: ShiftLeft
+[2025-09-03 05:12:04.835] [] key Pressed: RightBracket
+[2025-09-03 05:12:04.835] [] key Pressed: RightBracket
+[2025-09-03 05:12:06.104] [] key Pressed: ShiftRight
+[2025-09-03 05:12:06.104] [] key Pressed: ShiftRight
+[2025-09-03 05:12:06.335] [] key Pressed: Return
+[2025-09-03 05:12:06.335] [] key Pressed: Return
+[2025-09-03 05:12:09.233] [] key Pressed: CapsLock
+[2025-09-03 05:12:09.233] [] key Pressed: CapsLock
+[2025-09-03 05:12:09.801] [] key Pressed: KeyW
+[2025-09-03 05:12:09.801] [] key Pressed: KeyW
+[2025-09-03 05:12:10.007] [] key Pressed: CapsLock
+[2025-09-03 05:12:10.007] [] key Pressed: CapsLock
+[2025-09-03 05:12:10.847] [] key Pressed: KeyA
+[2025-09-03 05:12:10.847] [] key Pressed: KeyA
+[2025-09-03 05:12:11.388] [] key Pressed: KeyN
+[2025-09-03 05:12:11.388] [] key Pressed: KeyN
+[2025-09-03 05:12:11.731] [] key Pressed: KeyT
+[2025-09-03 05:12:11.731] [] key Pressed: KeyT
+[2025-09-03 05:12:11.862] [] key Pressed: KeyE
+[2025-09-03 05:12:11.862] [] key Pressed: KeyE
+[2025-09-03 05:12:12.140] [] key Pressed: KeyD
+[2025-09-03 05:12:12.140] [] key Pressed: KeyD
+[2025-09-03 05:12:12.879] [] key Pressed: CapsLock
+[2025-09-03 05:12:12.879] [] key Pressed: CapsLock
+[2025-09-03 05:12:13.421] [] key Pressed: KeyB
+[2025-09-03 05:12:13.421] [] key Pressed: KeyB
+[2025-09-03 05:12:13.715] [] key Pressed: CapsLock
+[2025-09-03 05:12:13.715] [] key Pressed: CapsLock
+[2025-09-03 05:12:14.480] [] key Pressed: KeyY
+[2025-09-03 05:12:14.480] [] key Pressed: KeyY
+[2025-09-03 05:12:17.998] [] key Pressed: Equal
+[2025-09-03 05:12:17.998] [] key Pressed: Equal
+[2025-09-03 05:12:21.047] [] key Pressed: KeyM
+[2025-09-03 05:12:21.047] [] key Pressed: KeyM
+[2025-09-03 05:12:21.360] [] key Pressed: KeyU
+[2025-09-03 05:12:21.360] [] key Pressed: KeyU
+[2025-09-03 05:12:21.706] [] key Pressed: KeyL
+[2025-09-03 05:12:21.706] [] key Pressed: KeyL
+[2025-09-03 05:12:22.143] [] key Pressed: KeyT
+[2025-09-03 05:12:22.143] [] key Pressed: KeyT
+[2025-09-03 05:12:22.561] [] key Pressed: KeyI
+[2025-09-03 05:12:22.561] [] key Pressed: KeyI
+[2025-09-03 05:12:24.259] [] key Pressed: Minus
+[2025-09-03 05:12:24.259] [] key Pressed: Minus
+[2025-09-03 05:12:25.681] [] key Pressed: KeyU
+[2025-09-03 05:12:25.681] [] key Pressed: KeyU
+[2025-09-03 05:12:25.862] [] key Pressed: KeyS
+[2025-09-03 05:12:25.862] [] key Pressed: KeyS
+[2025-09-03 05:12:26.159] [] key Pressed: KeyE
+[2025-09-03 05:12:26.159] [] key Pressed: KeyE
+[2025-09-03 05:12:26.390] [] key Pressed: KeyR
+[2025-09-03 05:12:26.390] [] key Pressed: KeyR
+[2025-09-03 05:12:28.342] [] key Pressed: Dot
+[2025-09-03 05:12:28.342] [] key Pressed: Dot
+[2025-09-03 05:12:32.165] [] key Pressed: KeyT
+[2025-09-03 05:12:32.165] [] key Pressed: KeyT
+[2025-09-03 05:12:33.559] [] key Pressed: KeyA
+[2025-09-03 05:12:33.559] [] key Pressed: KeyA
+[2025-09-03 05:12:33.891] [] key Pressed: KeyR
+[2025-09-03 05:12:33.891] [] key Pressed: KeyR
+[2025-09-03 05:12:34.147] [] key Pressed: KeyG
+[2025-09-03 05:12:34.147] [] key Pressed: KeyG
+[2025-09-03 05:12:34.399] [] key Pressed: KeyE
+[2025-09-03 05:12:34.399] [] key Pressed: KeyE
+[2025-09-03 05:12:34.637] [] key Pressed: KeyT
+[2025-09-03 05:12:34.637] [] key Pressed: KeyT
+[2025-09-03 05:12:36.112] [] key Pressed: LeftArrow
+[2025-09-03 05:12:36.112] [] key Pressed: LeftArrow
+[2025-09-03 05:12:36.612] [] key Pressed: LeftArrow
+[2025-09-03 05:12:36.612] [] key Pressed: LeftArrow
+[2025-09-03 05:12:36.643] [] key Pressed: LeftArrow
+[2025-09-03 05:12:36.643] [] key Pressed: LeftArrow
+[2025-09-03 05:12:36.673] [] key Pressed: LeftArrow
+[2025-09-03 05:12:36.673] [] key Pressed: LeftArrow
+[2025-09-03 05:12:36.703] [] key Pressed: LeftArrow
+[2025-09-03 05:12:36.703] [] key Pressed: LeftArrow
+[2025-09-03 05:12:36.733] [] key Pressed: LeftArrow
+[2025-09-03 05:12:36.733] [] key Pressed: LeftArrow
+[2025-09-03 05:12:36.765] [] key Pressed: LeftArrow
+[2025-09-03 05:12:36.765] [] key Pressed: LeftArrow
+[2025-09-03 05:12:36.795] [] key Pressed: LeftArrow
+[2025-09-03 05:12:36.795] [] key Pressed: LeftArrow
+[2025-09-03 05:12:36.826] [] key Pressed: LeftArrow
+[2025-09-03 05:12:36.826] [] key Pressed: LeftArrow
+[2025-09-03 05:12:36.856] [] key Pressed: LeftArrow
+[2025-09-03 05:12:36.856] [] key Pressed: LeftArrow
+[2025-09-03 05:12:36.886] [] key Pressed: LeftArrow
+[2025-09-03 05:12:36.886] [] key Pressed: LeftArrow
+[2025-09-03 05:12:36.917] [] key Pressed: LeftArrow
+[2025-09-03 05:12:36.917] [] key Pressed: LeftArrow
+[2025-09-03 05:12:36.948] [] key Pressed: LeftArrow
+[2025-09-03 05:12:36.948] [] key Pressed: LeftArrow
+[2025-09-03 05:12:36.978] [] key Pressed: LeftArrow
+[2025-09-03 05:12:36.978] [] key Pressed: LeftArrow
+[2025-09-03 05:12:37.008] [] key Pressed: LeftArrow
+[2025-09-03 05:12:37.008] [] key Pressed: LeftArrow
+[2025-09-03 05:12:37.039] [] key Pressed: LeftArrow
+[2025-09-03 05:12:37.039] [] key Pressed: LeftArrow
+[2025-09-03 05:12:38.323] [] key Pressed: RightArrow
+[2025-09-03 05:12:38.323] [] key Pressed: RightArrow
+[2025-09-03 05:12:38.823] [] key Pressed: RightArrow
+[2025-09-03 05:12:38.823] [] key Pressed: RightArrow
+[2025-09-03 05:12:38.854] [] key Pressed: RightArrow
+[2025-09-03 05:12:38.854] [] key Pressed: RightArrow
+[2025-09-03 05:12:38.884] [] key Pressed: RightArrow
+[2025-09-03 05:12:38.884] [] key Pressed: RightArrow
+[2025-09-03 05:12:38.914] [] key Pressed: RightArrow
+[2025-09-03 05:12:38.914] [] key Pressed: RightArrow
+[2025-09-03 05:12:38.945] [] key Pressed: RightArrow
+[2025-09-03 05:12:38.945] [] key Pressed: RightArrow
+[2025-09-03 05:12:38.975] [] key Pressed: RightArrow
+[2025-09-03 05:12:38.977] [] key Pressed: RightArrow
+[2025-09-03 05:12:39.008] [] key Pressed: RightArrow
+[2025-09-03 05:12:39.008] [] key Pressed: RightArrow
+[2025-09-03 05:12:39.038] [] key Pressed: RightArrow
+[2025-09-03 05:12:39.038] [] key Pressed: RightArrow
+[2025-09-03 05:12:39.068] [] key Pressed: RightArrow
+[2025-09-03 05:12:39.068] [] key Pressed: RightArrow
+[2025-09-03 05:12:39.098] [] key Pressed: RightArrow
+[2025-09-03 05:12:39.098] [] key Pressed: RightArrow
+[2025-09-03 05:12:39.129] [] key Pressed: RightArrow
+[2025-09-03 05:12:39.129] [] key Pressed: RightArrow
+[2025-09-03 05:12:39.159] [] key Pressed: RightArrow
+[2025-09-03 05:12:39.159] [] key Pressed: RightArrow
+[2025-09-03 05:12:39.189] [] key Pressed: RightArrow
+[2025-09-03 05:12:39.189] [] key Pressed: RightArrow
+[2025-09-03 05:12:39.220] [] key Pressed: RightArrow
+[2025-09-03 05:12:39.220] [] key Pressed: RightArrow
+[2025-09-03 05:12:39.251] [] key Pressed: RightArrow
+[2025-09-03 05:12:39.251] [] key Pressed: RightArrow
+[2025-09-03 05:12:39.282] [] key Pressed: RightArrow
+[2025-09-03 05:12:39.282] [] key Pressed: RightArrow
+[2025-09-03 05:12:39.665] [] key Pressed: RightArrow
+[2025-09-03 05:12:39.665] [] key Pressed: RightArrow
+[2025-09-03 05:12:48.310] [] key Pressed: ControlLeft
+[2025-09-03 05:12:48.310] [] key Pressed: ControlLeft
+[2025-09-03 05:12:48.867] [] key Pressed: KeyO
+[2025-09-03 05:12:48.867] [] key Pressed: KeyO
+[2025-09-03 05:12:50.142] [] key Pressed: Return
+[2025-09-03 05:12:50.142] [] key Pressed: Return
+[2025-09-03 05:12:51.346] [] key Pressed: ControlLeft
+[2025-09-03 05:12:51.346] [] key Pressed: ControlLeft
+[2025-09-03 05:12:54.241] [] key Pressed: KeyX
+[2025-09-03 05:12:54.241] [] key Pressed: KeyX
+[2025-09-03 05:13:00.745] [] key Pressed: KeyS
+[2025-09-03 05:13:00.745] [] key Pressed: KeyS
+[2025-09-03 05:13:01.169] [] key Pressed: KeyU
+[2025-09-03 05:13:01.169] [] key Pressed: KeyU
+[2025-09-03 05:13:01.425] [] key Pressed: KeyD
+[2025-09-03 05:13:01.425] [] key Pressed: KeyD
+[2025-09-03 05:13:01.751] [] key Pressed: KeyO
+[2025-09-03 05:13:01.751] [] key Pressed: KeyO
+[2025-09-03 05:13:03.813] [] key Pressed: Space
+[2025-09-03 05:13:03.813] [] key Pressed: Space
+[2025-09-03 05:13:04.195] [] key Pressed: KeyS
+[2025-09-03 05:13:04.196] [] key Pressed: KeyS
+[2025-09-03 05:13:04.511] [] key Pressed: KeyY
+[2025-09-03 05:13:04.511] [] key Pressed: KeyY
+[2025-09-03 05:13:04.870] [] key Pressed: KeyS
+[2025-09-03 05:13:04.870] [] key Pressed: KeyS
+[2025-09-03 05:13:05.406] [] key Pressed: KeyT
+[2025-09-03 05:13:05.406] [] key Pressed: KeyT
+[2025-09-03 05:13:05.548] [] key Pressed: KeyE
+[2025-09-03 05:13:05.548] [] key Pressed: KeyE
+[2025-09-03 05:13:05.914] [] key Pressed: KeyM
+[2025-09-03 05:13:05.914] [] key Pressed: KeyM
+[2025-09-03 05:13:07.509] [] key Pressed: KeyC
+[2025-09-03 05:13:07.509] [] key Pressed: KeyC
+[2025-09-03 05:13:07.825] [] key Pressed: KeyT
+[2025-09-03 05:13:07.825] [] key Pressed: KeyT
+[2025-09-03 05:13:08.354] [] key Pressed: KeyL
+[2025-09-03 05:13:08.354] [] key Pressed: KeyL
+[2025-09-03 05:13:08.802] [] key Pressed: Space
+[2025-09-03 05:13:08.802] [] key Pressed: Space
+[2025-09-03 05:13:09.631] [] key Pressed: KeyD
+[2025-09-03 05:13:09.631] [] key Pressed: KeyD
+[2025-09-03 05:13:10.239] [] key Pressed: KeyA
+[2025-09-03 05:13:10.239] [] key Pressed: KeyA
+[2025-09-03 05:13:12.521] [] key Pressed: KeyE
+[2025-09-03 05:13:12.521] [] key Pressed: KeyE
+[2025-09-03 05:13:12.948] [] key Pressed: KeyM
+[2025-09-03 05:13:12.948] [] key Pressed: KeyM
+[2025-09-03 05:13:13.190] [] key Pressed: KeyO
+[2025-09-03 05:13:13.190] [] key Pressed: KeyO
+[2025-09-03 05:13:13.526] [] key Pressed: KeyN
+[2025-09-03 05:13:13.526] [] key Pressed: KeyN
+[2025-09-03 05:13:13.874] [] key Pressed: Space
+[2025-09-03 05:13:13.874] [] key Pressed: Space
+[2025-09-03 05:13:15.028] [] key Pressed: Backspace
+[2025-09-03 05:13:15.028] [] key Pressed: Backspace
+[2025-09-03 05:13:16.171] [] key Pressed: Minus
+[2025-09-03 05:13:16.171] [] key Pressed: Minus
+[2025-09-03 05:13:16.740] [] key Pressed: KeyR
+[2025-09-03 05:13:16.740] [] key Pressed: KeyR
+[2025-09-03 05:13:16.957] [] key Pressed: KeyE
+[2025-09-03 05:13:16.957] [] key Pressed: KeyE
+[2025-09-03 05:13:17.289] [] key Pressed: KeyL
+[2025-09-03 05:13:17.289] [] key Pressed: KeyL
+[2025-09-03 05:13:17.524] [] key Pressed: KeyO
+[2025-09-03 05:13:17.524] [] key Pressed: KeyO
+[2025-09-03 05:13:17.806] [] key Pressed: KeyA
+[2025-09-03 05:13:17.806] [] key Pressed: KeyA
+[2025-09-03 05:13:18.122] [] key Pressed: KeyD
+[2025-09-03 05:13:18.122] [] key Pressed: KeyD
+[2025-09-03 05:13:19.168] [] key Pressed: Return
+[2025-09-03 05:13:19.168] [] key Pressed: Return
+[2025-09-03 05:13:23.016] [] key Pressed: UpArrow
+[2025-09-03 05:13:23.016] [] key Pressed: UpArrow
+[2025-09-03 05:13:23.494] [] key Pressed: UpArrow
+[2025-09-03 05:13:23.494] [] key Pressed: UpArrow
+[2025-09-03 05:13:24.052] [] key Pressed: UpArrow
+[2025-09-03 05:13:24.052] [] key Pressed: UpArrow
+[2025-09-03 05:13:25.432] [] key Pressed: KeyS
+[2025-09-03 05:13:25.432] [] key Pressed: KeyS
+[2025-09-03 05:13:25.754] [] key Pressed: KeyU
+[2025-09-03 05:13:25.754] [] key Pressed: KeyU
+[2025-09-03 05:13:25.940] [] key Pressed: KeyD
+[2025-09-03 05:13:25.940] [] key Pressed: KeyD
+[2025-09-03 05:13:27.357] [] key Pressed: KeyO
+[2025-09-03 05:13:27.357] [] key Pressed: KeyO
+[2025-09-03 05:13:28.988] [] key Pressed: Space
+[2025-09-03 05:13:28.988] [] key Pressed: Space
+[2025-09-03 05:13:29.656] [] key Pressed: KeyE
+[2025-09-03 05:13:29.656] [] key Pressed: KeyE
+[2025-09-03 05:13:29.962] [] key Pressed: KeyN
+[2025-09-03 05:13:29.962] [] key Pressed: KeyN
+[2025-09-03 05:13:30.204] [] key Pressed: KeyA
+[2025-09-03 05:13:30.204] [] key Pressed: KeyA
+[2025-09-03 05:13:30.560] [] key Pressed: KeyB
+[2025-09-03 05:13:30.560] [] key Pressed: KeyB
+[2025-09-03 05:13:31.006] [] key Pressed: KeyL
+[2025-09-03 05:13:31.006] [] key Pressed: KeyL
+[2025-09-03 05:13:31.268] [] key Pressed: KeyE
+[2025-09-03 05:13:31.268] [] key Pressed: KeyE
+[2025-09-03 05:13:32.022] [] key Pressed: Space
+[2025-09-03 05:13:32.022] [] key Pressed: Space
+[2025-09-03 05:13:32.710] [] key Pressed: KeyE
+[2025-09-03 05:13:32.710] [] key Pressed: KeyE
+[2025-09-03 05:13:33.026] [] key Pressed: KeyT
+[2025-09-03 05:13:33.026] [] key Pressed: KeyT
+[2025-09-03 05:13:33.258] [] key Pressed: KeyH
+[2025-09-03 05:13:33.258] [] key Pressed: KeyH
+[2025-09-03 05:13:34.141] [] key Pressed: KeyI
+[2025-09-03 05:13:34.141] [] key Pressed: KeyI
+[2025-09-03 05:13:34.518] [] key Pressed: KeyC
+[2025-09-03 05:13:34.518] [] key Pressed: KeyC
+[2025-09-03 05:13:35.660] [] key Pressed: KeyA
+[2025-09-03 05:13:35.660] [] key Pressed: KeyA
+[2025-09-03 05:13:35.962] [] key Pressed: KeyL
+[2025-09-03 05:13:35.962] [] key Pressed: KeyL
+[2025-09-03 05:13:38.167] [] key Pressed: Minus
+[2025-09-03 05:13:38.167] [] key Pressed: Minus
+[2025-09-03 05:13:40.247] [] key Pressed: KeyK
+[2025-09-03 05:13:40.247] [] key Pressed: KeyK
+[2025-09-03 05:13:40.584] [] key Pressed: KeyE
+[2025-09-03 05:13:40.584] [] key Pressed: KeyE
+[2025-09-03 05:13:40.997] [] key Pressed: KeyY
+[2025-09-03 05:13:40.997] [] key Pressed: KeyY
+[2025-09-03 05:13:41.475] [] key Pressed: KeyL
+[2025-09-03 05:13:41.475] [] key Pressed: KeyL
+[2025-09-03 05:13:41.689] [] key Pressed: KeyO
+[2025-09-03 05:13:41.689] [] key Pressed: KeyO
+[2025-09-03 05:13:42.127] [] key Pressed: KeyG
+[2025-09-03 05:13:42.127] [] key Pressed: KeyG
+[2025-09-03 05:13:42.279] [] key Pressed: KeyG
+[2025-09-03 05:13:42.279] [] key Pressed: KeyG
+[2025-09-03 05:13:42.420] [] key Pressed: KeyE
+[2025-09-03 05:13:42.420] [] key Pressed: KeyE
+[2025-09-03 05:13:42.665] [] key Pressed: KeyR
+[2025-09-03 05:13:42.665] [] key Pressed: KeyR
+[2025-09-03 05:13:44.403] [] key Pressed: Dot
+[2025-09-03 05:13:44.403] [] key Pressed: Dot
+[2025-09-03 05:13:44.970] [] key Pressed: KeyS
+[2025-09-03 05:13:44.970] [] key Pressed: KeyS
+[2025-09-03 05:13:45.308] [] key Pressed: KeyE
+[2025-09-03 05:13:45.308] [] key Pressed: KeyE
+[2025-09-03 05:13:45.655] [] key Pressed: KeyR
+[2025-09-03 05:13:45.655] [] key Pressed: KeyR
+[2025-09-03 05:13:45.926] [] key Pressed: KeyV
+[2025-09-03 05:13:45.926] [] key Pressed: KeyV
+[2025-09-03 05:13:46.424] [] key Pressed: KeyI
+[2025-09-03 05:13:46.424] [] key Pressed: KeyI
+[2025-09-03 05:13:46.821] [] key Pressed: KeyC
+[2025-09-03 05:13:46.821] [] key Pressed: KeyC
+[2025-09-03 05:13:46.982] [] key Pressed: KeyE
+[2025-09-03 05:13:46.982] [] key Pressed: KeyE
+[2025-09-03 05:13:47.926] [] key Pressed: Return
+[2025-09-03 05:13:47.926] [] key Pressed: Return
+[2025-09-03 05:14:17.600] [] key Pressed: Unknown(135)
+[2025-09-03 05:14:17.600] [] key Pressed: Unknown(135)
+[2025-09-03 05:14:21.484] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: ControlLeft
+[2025-09-03 05:14:21.484] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: ControlLeft
+[2025-09-03 05:14:21.870] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyV
+[2025-09-03 05:14:21.870] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyV
+[2025-09-03 05:14:22.699] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Return
+[2025-09-03 05:14:22.699] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Return
+[2025-09-03 05:14:47.879] [] key Pressed: KeyS
+[2025-09-03 05:14:47.879] [] key Pressed: KeyS
+[2025-09-03 05:14:48.255] [] key Pressed: KeyU
+[2025-09-03 05:14:48.255] [] key Pressed: KeyU
+[2025-09-03 05:14:48.834] [] key Pressed: KeyD
+[2025-09-03 05:14:48.834] [] key Pressed: KeyD
+[2025-09-03 05:14:49.029] [] key Pressed: KeyO
+[2025-09-03 05:14:49.029] [] key Pressed: KeyO
+[2025-09-03 05:14:49.371] [] key Pressed: Space
+[2025-09-03 05:14:49.371] [] key Pressed: Space
+[2025-09-03 05:14:50.154] [] key Pressed: KeyS
+[2025-09-03 05:14:50.154] [] key Pressed: KeyS
+[2025-09-03 05:14:50.456] [] key Pressed: KeyY
+[2025-09-03 05:14:50.456] [] key Pressed: KeyY
+[2025-09-03 05:14:50.713] [] key Pressed: KeyS
+[2025-09-03 05:14:50.713] [] key Pressed: KeyS
+[2025-09-03 05:14:51.149] [] key Pressed: KeyT
+[2025-09-03 05:14:51.149] [] key Pressed: KeyT
+[2025-09-03 05:14:51.270] [] key Pressed: KeyE
+[2025-09-03 05:14:51.270] [] key Pressed: KeyE
+[2025-09-03 05:14:51.667] [] key Pressed: KeyM
+[2025-09-03 05:14:51.667] [] key Pressed: KeyM
+[2025-09-03 05:14:52.375] [] key Pressed: KeyC
+[2025-09-03 05:14:52.375] [] key Pressed: KeyC
+[2025-09-03 05:14:52.711] [] key Pressed: KeyT
+[2025-09-03 05:14:52.711] [] key Pressed: KeyT
+[2025-09-03 05:14:53.168] [] key Pressed: KeyL
+[2025-09-03 05:14:53.168] [] key Pressed: KeyL
+[2025-09-03 05:14:53.500] [] key Pressed: Space
+[2025-09-03 05:14:53.500] [] key Pressed: Space
+[2025-09-03 05:14:54.334] [] key Pressed: KeyE
+[2025-09-03 05:14:54.334] [] key Pressed: KeyE
+[2025-09-03 05:14:54.681] [] key Pressed: KeyN
+[2025-09-03 05:14:54.681] [] key Pressed: KeyN
+[2025-09-03 05:14:55.023] [] key Pressed: KeyA
+[2025-09-03 05:14:55.023] [] key Pressed: KeyA
+[2025-09-03 05:14:55.309] [] key Pressed: KeyB
+[2025-09-03 05:14:55.309] [] key Pressed: KeyB
+[2025-09-03 05:14:55.777] [] key Pressed: KeyL
+[2025-09-03 05:14:55.777] [] key Pressed: KeyL
+[2025-09-03 05:14:56.235] [] key Pressed: KeyE
+[2025-09-03 05:14:56.235] [] key Pressed: KeyE
+[2025-09-03 05:14:57.908] [] key Pressed: Space
+[2025-09-03 05:14:57.908] [] key Pressed: Space
+[2025-09-03 05:14:58.811] [] key Pressed: KeyE
+[2025-09-03 05:14:58.811] [] key Pressed: KeyE
+[2025-09-03 05:14:59.117] [] key Pressed: KeyT
+[2025-09-03 05:14:59.117] [] key Pressed: KeyT
+[2025-09-03 05:14:59.359] [] key Pressed: KeyH
+[2025-09-03 05:14:59.359] [] key Pressed: KeyH
+[2025-09-03 05:14:59.758] [] key Pressed: KeyI
+[2025-09-03 05:14:59.758] [] key Pressed: KeyI
+[2025-09-03 05:15:00.163] [] key Pressed: KeyC
+[2025-09-03 05:15:00.163] [] key Pressed: KeyC
+[2025-09-03 05:15:00.536] [] key Pressed: KeyA
+[2025-09-03 05:15:00.536] [] key Pressed: KeyA
+[2025-09-03 05:15:00.822] [] key Pressed: KeyL
+[2025-09-03 05:15:00.822] [] key Pressed: KeyL
+[2025-09-03 05:15:03.738] [] key Pressed: Minus
+[2025-09-03 05:15:03.738] [] key Pressed: Minus
+[2025-09-03 05:15:08.450] [] key Pressed: KeyK
+[2025-09-03 05:15:08.450] [] key Pressed: KeyK
+[2025-09-03 05:15:08.696] [] key Pressed: KeyE
+[2025-09-03 05:15:08.696] [] key Pressed: KeyE
+[2025-09-03 05:15:09.038] [] key Pressed: KeyY
+[2025-09-03 05:15:09.038] [] key Pressed: KeyY
+[2025-09-03 05:15:11.431] [] key Pressed: KeyL
+[2025-09-03 05:15:11.431] [] key Pressed: KeyL
+[2025-09-03 05:15:11.708] [] key Pressed: KeyO
+[2025-09-03 05:15:11.708] [] key Pressed: KeyO
+[2025-09-03 05:15:13.119] [] key Pressed: KeyG
+[2025-09-03 05:15:13.119] [] key Pressed: KeyG
+[2025-09-03 05:15:13.264] [] key Pressed: KeyG
+[2025-09-03 05:15:13.264] [] key Pressed: KeyG
+[2025-09-03 05:15:13.445] [] key Pressed: KeyE
+[2025-09-03 05:15:13.445] [] key Pressed: KeyE
+[2025-09-03 05:15:13.761] [] key Pressed: KeyR
+[2025-09-03 05:15:13.761] [] key Pressed: KeyR
+[2025-09-03 05:15:15.502] [] key Pressed: Dot
+[2025-09-03 05:15:15.502] [] key Pressed: Dot
+[2025-09-03 05:15:15.850] [] key Pressed: KeyS
+[2025-09-03 05:15:15.850] [] key Pressed: KeyS
+[2025-09-03 05:15:16.227] [] key Pressed: KeyE
+[2025-09-03 05:15:16.227] [] key Pressed: KeyE
+[2025-09-03 05:15:16.569] [] key Pressed: KeyR
+[2025-09-03 05:15:16.569] [] key Pressed: KeyR
+[2025-09-03 05:15:16.904] [] key Pressed: KeyV
+[2025-09-03 05:15:16.904] [] key Pressed: KeyV
+[2025-09-03 05:15:17.291] [] key Pressed: KeyI
+[2025-09-03 05:15:17.291] [] key Pressed: KeyI
+[2025-09-03 05:15:17.759] [] key Pressed: KeyC
+[2025-09-03 05:15:17.759] [] key Pressed: KeyC
+[2025-09-03 05:15:18.132] [] key Pressed: KeyE
+[2025-09-03 05:15:18.132] [] key Pressed: KeyE
+[2025-09-03 05:15:19.611] [] key Pressed: Return
+[2025-09-03 05:15:19.611] [] key Pressed: Return
+[2025-09-03 05:15:22.721] [] key Pressed: KeyS
+[2025-09-03 05:15:22.721] [] key Pressed: KeyS
+[2025-09-03 05:15:23.006] [] key Pressed: KeyU
+[2025-09-03 05:15:23.006] [] key Pressed: KeyU
+[2025-09-03 05:15:23.242] [] key Pressed: KeyD
+[2025-09-03 05:15:23.242] [] key Pressed: KeyD
+[2025-09-03 05:15:23.595] [] key Pressed: KeyO
+[2025-09-03 05:15:23.595] [] key Pressed: KeyO
+[2025-09-03 05:15:23.942] [] key Pressed: Space
+[2025-09-03 05:15:23.942] [] key Pressed: Space
+[2025-09-03 05:15:24.620] [] key Pressed: KeyS
+[2025-09-03 05:15:24.620] [] key Pressed: KeyS
+[2025-09-03 05:15:24.956] [] key Pressed: KeyY
+[2025-09-03 05:15:24.956] [] key Pressed: KeyY
+[2025-09-03 05:15:25.117] [] key Pressed: KeyS
+[2025-09-03 05:15:25.117] [] key Pressed: KeyS
+[2025-09-03 05:15:25.484] [] key Pressed: KeyT
+[2025-09-03 05:15:25.484] [] key Pressed: KeyT
+[2025-09-03 05:15:25.655] [] key Pressed: KeyE
+[2025-09-03 05:15:25.655] [] key Pressed: KeyE
+[2025-09-03 05:15:26.032] [] key Pressed: KeyM
+[2025-09-03 05:15:26.032] [] key Pressed: KeyM
+[2025-09-03 05:15:26.338] [] key Pressed: KeyC
+[2025-09-03 05:15:26.338] [] key Pressed: KeyC
+[2025-09-03 05:15:26.670] [] key Pressed: KeyT
+[2025-09-03 05:15:26.670] [] key Pressed: KeyT
+[2025-09-03 05:15:27.384] [] key Pressed: KeyK
+[2025-09-03 05:15:27.384] [] key Pressed: KeyK
+[2025-09-03 05:18:54.544] [] key Pressed: Backspace
+[2025-09-03 05:18:54.544] [] key Pressed: Backspace
+[2025-09-03 05:18:55.031] [] key Pressed: KeyL
+[2025-09-03 05:18:55.031] [] key Pressed: KeyL
+[2025-09-03 05:18:59.836] [] key Pressed: Space
+[2025-09-03 05:18:59.836] [] key Pressed: Space
+[2025-09-03 05:19:06.260] [] key Pressed: KeyS
+[2025-09-03 05:19:06.260] [] key Pressed: KeyS
+[2025-09-03 05:19:06.556] [] key Pressed: KeyT
+[2025-09-03 05:19:06.556] [] key Pressed: KeyT
+[2025-09-03 05:19:06.798] [] key Pressed: KeyA
+[2025-09-03 05:19:06.798] [] key Pressed: KeyA
+[2025-09-03 05:19:06.943] [] key Pressed: KeyR
+[2025-09-03 05:19:06.943] [] key Pressed: KeyR
+[2025-09-03 05:19:07.145] [] key Pressed: KeyT
+[2025-09-03 05:19:07.145] [] key Pressed: KeyT
+[2025-09-03 05:19:08.312] [] key Pressed: Space
+[2025-09-03 05:19:08.312] [] key Pressed: Space
+[2025-09-03 05:19:14.204] [] key Pressed: KeyE
+[2025-09-03 05:19:14.204] [] key Pressed: KeyE
+[2025-09-03 05:19:14.692] [] key Pressed: KeyT
+[2025-09-03 05:19:14.692] [] key Pressed: KeyT
+[2025-09-03 05:19:14.988] [] key Pressed: KeyH
+[2025-09-03 05:19:14.988] [] key Pressed: KeyH
+[2025-09-03 05:19:15.434] [] key Pressed: KeyI
+[2025-09-03 05:19:15.434] [] key Pressed: KeyI
+[2025-09-03 05:19:15.797] [] key Pressed: KeyC
+[2025-09-03 05:19:15.797] [] key Pressed: KeyC
+[2025-09-03 05:19:16.183] [] key Pressed: KeyA
+[2025-09-03 05:19:16.183] [] key Pressed: KeyA
+[2025-09-03 05:19:16.571] [] key Pressed: KeyL
+[2025-09-03 05:19:16.571] [] key Pressed: KeyL
+[2025-09-03 05:19:18.289] [] key Pressed: Equal
+[2025-09-03 05:19:18.289] [] key Pressed: Equal
+[2025-09-03 05:19:18.806] [] key Pressed: Backspace
+[2025-09-03 05:19:18.806] [] key Pressed: Backspace
+[2025-09-03 05:19:19.213] [] key Pressed: Minus
+[2025-09-03 05:19:19.213] [] key Pressed: Minus
+[2025-09-03 05:19:25.997] [] key Pressed: KeyK
+[2025-09-03 05:19:25.997] [] key Pressed: KeyK
+[2025-09-03 05:19:26.495] [] key Pressed: KeyE
+[2025-09-03 05:19:26.495] [] key Pressed: KeyE
+[2025-09-03 05:19:27.468] [] key Pressed: KeyY
+[2025-09-03 05:19:27.468] [] key Pressed: KeyY
+[2025-09-03 05:19:27.732] [] key Pressed: KeyL
+[2025-09-03 05:19:27.732] [] key Pressed: KeyL
+[2025-09-03 05:19:27.998] [] key Pressed: KeyO
+[2025-09-03 05:19:27.998] [] key Pressed: KeyO
+[2025-09-03 05:19:28.370] [] key Pressed: KeyG
+[2025-09-03 05:19:28.370] [] key Pressed: KeyG
+[2025-09-03 05:19:28.567] [] key Pressed: KeyG
+[2025-09-03 05:19:28.567] [] key Pressed: KeyG
+[2025-09-03 05:19:29.093] [] key Pressed: KeyE
+[2025-09-03 05:19:29.093] [] key Pressed: KeyE
+[2025-09-03 05:19:29.375] [] key Pressed: KeyR
+[2025-09-03 05:19:29.375] [] key Pressed: KeyR
+[2025-09-03 05:19:36.584] [] key Pressed: Dot
+[2025-09-03 05:19:36.584] [] key Pressed: Dot
+[2025-09-03 05:19:36.926] [] key Pressed: KeyS
+[2025-09-03 05:19:36.926] [] key Pressed: KeyS
+[2025-09-03 05:19:37.343] [] key Pressed: KeyE
+[2025-09-03 05:19:37.343] [] key Pressed: KeyE
+[2025-09-03 05:19:37.631] [] key Pressed: KeyR
+[2025-09-03 05:19:37.631] [] key Pressed: KeyR
+[2025-09-03 05:19:37.994] [] key Pressed: KeyV
+[2025-09-03 05:19:37.994] [] key Pressed: KeyV
+[2025-09-03 05:19:38.299] [] key Pressed: KeyI
+[2025-09-03 05:19:38.299] [] key Pressed: KeyI
+[2025-09-03 05:19:38.656] [] key Pressed: KeyC
+[2025-09-03 05:19:38.656] [] key Pressed: KeyC
+[2025-09-03 05:19:39.073] [] key Pressed: KeyE
+[2025-09-03 05:19:39.073] [] key Pressed: KeyE
+[2025-09-03 05:19:40.560] [] key Pressed: Return
+[2025-09-03 05:19:40.560] [] key Pressed: Return
+[2025-09-03 05:19:45.516] [] key Pressed: KeyS
+[2025-09-03 05:19:45.516] [] key Pressed: KeyS
+[2025-09-03 05:19:45.841] [] key Pressed: KeyU
+[2025-09-03 05:19:45.841] [] key Pressed: KeyU
+[2025-09-03 05:19:46.127] [] key Pressed: KeyD
+[2025-09-03 05:19:46.127] [] key Pressed: KeyD
+[2025-09-03 05:19:46.399] [] key Pressed: KeyO
+[2025-09-03 05:19:46.399] [] key Pressed: KeyO
+[2025-09-03 05:19:48.381] [] key Pressed: Space
+[2025-09-03 05:19:48.381] [] key Pressed: Space
+[2025-09-03 05:19:49.914] [] key Pressed: KeyS
+[2025-09-03 05:19:49.914] [] key Pressed: KeyS
+[2025-09-03 05:19:50.209] [] key Pressed: KeyY
+[2025-09-03 05:19:50.209] [] key Pressed: KeyY
+[2025-09-03 05:19:50.431] [] key Pressed: KeyS
+[2025-09-03 05:19:50.431] [] key Pressed: KeyS
+[2025-09-03 05:19:50.778] [] key Pressed: KeyT
+[2025-09-03 05:19:50.778] [] key Pressed: KeyT
+[2025-09-03 05:19:50.939] [] key Pressed: KeyE
+[2025-09-03 05:19:50.939] [] key Pressed: KeyE
+[2025-09-03 05:19:51.346] [] key Pressed: KeyM
+[2025-09-03 05:19:51.346] [] key Pressed: KeyM
+[2025-09-03 05:20:09.113] [] key Pressed: KeyC
+[2025-09-03 05:20:09.113] [] key Pressed: KeyC
+[2025-09-03 05:20:09.898] [] key Pressed: KeyT
+[2025-09-03 05:20:09.898] [] key Pressed: KeyT
+[2025-09-03 05:20:10.526] [] key Pressed: KeyL
+[2025-09-03 05:20:10.526] [] key Pressed: KeyL
+[2025-09-03 05:20:23.139] [] key Pressed: Space
+[2025-09-03 05:20:23.139] [] key Pressed: Space
+[2025-09-03 05:20:23.756] [] key Pressed: KeyS
+[2025-09-03 05:20:23.756] [] key Pressed: KeyS
+[2025-09-03 05:20:24.144] [] key Pressed: KeyT
+[2025-09-03 05:20:24.144] [] key Pressed: KeyT
+[2025-09-03 05:20:24.286] [] key Pressed: KeyS
+[2025-09-03 05:20:24.286] [] key Pressed: KeyS
+[2025-09-03 05:20:24.712] [] key Pressed: KeyT
+[2025-09-03 05:20:24.712] [] key Pressed: KeyT
+[2025-09-03 05:20:25.199] [] key Pressed: KeyU
+[2025-09-03 05:20:25.199] [] key Pressed: KeyU
+[2025-09-03 05:20:25.586] [] key Pressed: KeyS
+[2025-09-03 05:20:25.586] [] key Pressed: KeyS
+[2025-09-03 05:20:27.430] [] key Pressed: Backspace
+[2025-09-03 05:20:27.430] [] key Pressed: Backspace
+[2025-09-03 05:20:27.611] [] key Pressed: Backspace
+[2025-09-03 05:20:27.611] [] key Pressed: Backspace
+[2025-09-03 05:20:27.823] [] key Pressed: Backspace
+[2025-09-03 05:20:27.823] [] key Pressed: Backspace
+[2025-09-03 05:20:28.130] [] key Pressed: Backspace
+[2025-09-03 05:20:28.130] [] key Pressed: Backspace
+[2025-09-03 05:20:28.749] [] key Pressed: KeyA
+[2025-09-03 05:20:28.749] [] key Pressed: KeyA
+[2025-09-03 05:20:29.268] [] key Pressed: KeyT
+[2025-09-03 05:20:29.268] [] key Pressed: KeyT
+[2025-09-03 05:20:29.624] [] key Pressed: KeyU
+[2025-09-03 05:20:29.624] [] key Pressed: KeyU
+[2025-09-03 05:20:29.930] [] key Pressed: KeyS
+[2025-09-03 05:20:29.930] [] key Pressed: KeyS
+[2025-09-03 05:20:35.848] [] key Pressed: Space
+[2025-09-03 05:20:35.848] [] key Pressed: Space
+[2025-09-03 05:20:40.447] [] key Pressed: KeyE
+[2025-09-03 05:20:40.447] [] key Pressed: KeyE
+[2025-09-03 05:20:40.815] [] key Pressed: KeyT
+[2025-09-03 05:20:40.815] [] key Pressed: KeyT
+[2025-09-03 05:20:41.112] [] key Pressed: KeyH
+[2025-09-03 05:20:41.112] [] key Pressed: KeyH
+[2025-09-03 05:20:41.578] [] key Pressed: KeyI
+[2025-09-03 05:20:41.578] [] key Pressed: KeyI
+[2025-09-03 05:20:42.025] [] key Pressed: KeyC
+[2025-09-03 05:20:42.025] [] key Pressed: KeyC
+[2025-09-03 05:20:42.458] [] key Pressed: KeyA
+[2025-09-03 05:20:42.458] [] key Pressed: KeyA
+[2025-09-03 05:20:42.876] [] key Pressed: KeyL
+[2025-09-03 05:20:42.876] [] key Pressed: KeyL
+[2025-09-03 05:20:52.349] [] key Pressed: Minus
+[2025-09-03 05:20:52.349] [] key Pressed: Minus
+[2025-09-03 05:20:53.435] [] key Pressed: KeyK
+[2025-09-03 05:20:53.435] [] key Pressed: KeyK
+[2025-09-03 05:20:59.025] [] key Pressed: KeyE
+[2025-09-03 05:20:59.025] [] key Pressed: KeyE
+[2025-09-03 05:20:59.382] [] key Pressed: KeyY
+[2025-09-03 05:20:59.382] [] key Pressed: KeyY
+[2025-09-03 05:20:59.859] [] key Pressed: KeyL
+[2025-09-03 05:20:59.859] [] key Pressed: KeyL
+[2025-09-03 05:21:00.080] [] key Pressed: KeyO
+[2025-09-03 05:21:00.080] [] key Pressed: KeyO
+[2025-09-03 05:21:00.559] [] key Pressed: KeyG
+[2025-09-03 05:21:00.559] [] key Pressed: KeyG
+[2025-09-03 05:21:00.724] [] key Pressed: KeyG
+[2025-09-03 05:21:00.724] [] key Pressed: KeyG
+[2025-09-03 05:21:00.935] [] key Pressed: KeyE
+[2025-09-03 05:21:00.935] [] key Pressed: KeyE
+[2025-09-03 05:21:01.291] [] key Pressed: KeyR
+[2025-09-03 05:21:01.291] [] key Pressed: KeyR
+[2025-09-03 05:21:04.240] [] key Pressed: Dot
+[2025-09-03 05:21:04.240] [] key Pressed: Dot
+[2025-09-03 05:21:04.646] [] key Pressed: KeyS
+[2025-09-03 05:21:04.646] [] key Pressed: KeyS
+[2025-09-03 05:21:05.256] [] key Pressed: KeyE
+[2025-09-03 05:21:05.256] [] key Pressed: KeyE
+[2025-09-03 05:21:05.558] [] key Pressed: KeyR
+[2025-09-03 05:21:05.558] [] key Pressed: KeyR
+[2025-09-03 05:21:05.823] [] key Pressed: KeyV
+[2025-09-03 05:21:05.823] [] key Pressed: KeyV
+[2025-09-03 05:21:06.402] [] key Pressed: KeyI
+[2025-09-03 05:21:06.402] [] key Pressed: KeyI
+[2025-09-03 05:21:06.728] [] key Pressed: KeyC
+[2025-09-03 05:21:06.728] [] key Pressed: KeyC
+[2025-09-03 05:21:07.131] [] key Pressed: KeyE
+[2025-09-03 05:21:07.131] [] key Pressed: KeyE
+[2025-09-03 05:21:08.095] [] key Pressed: Return
+[2025-09-03 05:21:08.095] [] key Pressed: Return
+[2025-09-03 05:21:16.566] [] key Pressed: Unknown(135)
+[2025-09-03 05:21:16.566] [] key Pressed: Unknown(135)
+[2025-09-03 05:21:22.350] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: ControlLeft
+[2025-09-03 05:21:22.350] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: ControlLeft
+[2025-09-03 05:21:22.692] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyV
+[2025-09-03 05:21:22.692] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyV
+[2025-09-03 05:21:23.406] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Return
+[2025-09-03 05:21:23.406] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Return
+[2025-09-03 05:24:27.627] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: ControlLeft
+[2025-09-03 05:24:27.627] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: ControlLeft
+[2025-09-03 05:24:29.190] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyC
+[2025-09-03 05:24:29.190] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyC
+[2025-09-03 05:24:37.352] [] key Pressed: Unknown(135)
+[2025-09-03 05:24:37.352] [] key Pressed: Unknown(135)
+[2025-09-03 05:24:39.879] [] key Pressed: Return
+[2025-09-03 05:24:39.879] [] key Pressed: Return
+[2025-09-03 05:24:44.254] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: ControlLeft
+[2025-09-03 05:24:44.254] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: ControlLeft
+[2025-09-03 05:24:44.710] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyC
+[2025-09-03 05:24:44.710] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyC
+[2025-09-03 05:24:46.509] [] key Pressed: Unknown(135)
+[2025-09-03 05:24:46.509] [] key Pressed: Unknown(135)
+[2025-09-03 05:24:49.430] [] key Pressed: Return
+[2025-09-03 05:24:49.430] [] key Pressed: Return
+[2025-09-03 05:24:54.974] [] key Pressed: MetaLeft
+[2025-09-03 05:24:54.974] [] key Pressed: MetaLeft
+[2025-09-03 05:24:58.427] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyQ
+[2025-09-03 05:24:58.427] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyQ
+[2025-09-03 05:24:59.025] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyQ
+[2025-09-03 05:24:59.025] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyQ
+[2025-09-03 05:24:59.704] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyQ
+[2025-09-03 05:24:59.704] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyQ
+[2025-09-03 05:25:05.996] [main.rs - ethical_keylogger - Visual Studio Code] key Pressed: ControlLeft
+[2025-09-03 05:25:06.901] [main.rs - ethical_keylogger - Visual Studio Code] key Pressed: BackQuote
+[2025-09-03 05:25:08.947] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Backspace
+[2025-09-03 05:25:09.447] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Backspace
+[2025-09-03 05:25:09.477] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Backspace
+[2025-09-03 05:25:09.509] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Backspace
+[2025-09-03 05:25:09.540] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Backspace
+[2025-09-03 05:25:09.571] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Backspace
+[2025-09-03 05:25:09.601] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Backspace
+[2025-09-03 05:25:09.631] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Backspace
+[2025-09-03 05:25:09.661] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Backspace
+[2025-09-03 05:25:09.691] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Backspace
+[2025-09-03 05:25:09.722] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Backspace
+[2025-09-03 05:25:10.310] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: MetaLeft
+[2025-09-03 05:25:24.725] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: ControlLeft
+[2025-09-03 05:25:25.294] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyC
+[2025-09-03 05:25:28.185] [main.rs - ethical_keylogger - Visual Studio Code] key Pressed: Unknown(135)
+[2025-09-03 05:25:30.703] [main.rs - ethical_keylogger - Visual Studio Code] key Pressed: Return
+[2025-09-03 05:25:31.968] [main.rs - ethical_keylogger - Visual Studio Code] key Pressed: CapsLock
+[2025-09-03 05:25:32.530] [main.rs - ethical_keylogger - Visual Studio Code] key Pressed: KeyP
+[2025-09-03 05:25:32.741] [main.rs - ethical_keylogger - Visual Studio Code] key Pressed: CapsLock
+[2025-09-03 05:25:33.158] [main.rs - ethical_keylogger - Visual Studio Code] key Pressed: KeyA
+[2025-09-03 05:25:33.605] [main.rs - ethical_keylogger - Visual Studio Code] key Pressed: KeyS
+[2025-09-03 05:25:33.796] [main.rs - ethical_keylogger - Visual Studio Code] key Pressed: KeyS
+[2025-09-03 05:25:34.164] [main.rs - ethical_keylogger - Visual Studio Code] key Pressed: KeyW
+[2025-09-03 05:25:34.621] [main.rs - ethical_keylogger - Visual Studio Code] key Pressed: KeyO
+[2025-09-03 05:25:34.953] [main.rs - ethical_keylogger - Visual Studio Code] key Pressed: KeyR
+[2025-09-03 05:25:36.539] [main.rs - ethical_keylogger - Visual Studio Code] key Pressed: KeyD
+[2025-09-03 05:25:37.036] [main.rs - ethical_keylogger - Visual Studio Code] key Pressed: Num1
+[2025-09-03 05:25:37.313] [main.rs - ethical_keylogger - Visual Studio Code] key Pressed: Num2
+[2025-09-03 05:25:37.588] [main.rs - ethical_keylogger - Visual Studio Code] key Pressed: Num3
+[2025-09-03 05:25:38.116] [main.rs - ethical_keylogger - Visual Studio Code] key Pressed: ShiftLeft
+[2025-09-03 05:25:38.614] [main.rs - ethical_keylogger - Visual Studio Code] key Pressed: Equal
+[2025-09-03 05:25:39.172] [main.rs - ethical_keylogger - Visual Studio Code] key Pressed: Equal
+[2025-09-03 05:25:39.514] [main.rs - ethical_keylogger - Visual Studio Code] key Pressed: Equal
+[2025-09-03 05:25:39.891] [main.rs - ethical_keylogger - Visual Studio Code] key Pressed: Return
+[2025-09-03 05:25:47.871] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: ControlLeft
+[2025-09-03 05:25:48.409] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyC
+[2025-09-03 05:25:50.522] [main.rs - ethical_keylogger - Visual Studio Code] key Pressed: Unknown(135)
+[2025-09-03 05:25:53.772] [main.rs - ethical_keylogger - Visual Studio Code] key Pressed: Return
+[2025-09-03 05:26:09.750] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: ControlLeft
+[2025-09-03 05:26:10.208] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyC
+[2025-09-03 05:26:10.385] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyC
+[2025-09-03 05:26:13.168] [main.rs - ethical_keylogger - Visual Studio Code] key Pressed: Unknown(135)
+[2025-09-03 05:26:15.765] [main.rs - ethical_keylogger - Visual Studio Code] key Pressed: Return
+[2025-09-03 05:26:22.143] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: ControlLeft
+[2025-09-03 05:26:22.601] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyC
+[2025-09-03 05:26:24.741] [main.rs - ethical_keylogger - Visual Studio Code] key Pressed: Unknown(135)
+[2025-09-03 05:26:27.806] [main.rs - ethical_keylogger - Visual Studio Code] key Pressed: Return
+[2025-09-03 05:26:37.082] [main.rs - ethical_keylogger - Visual Studio Code] key Pressed: Unknown(135)
+[2025-09-03 05:26:43.511] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Unknown(135)
+[2025-09-03 05:26:46.237] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Return
+[2025-09-03 05:30:12.014] [main.rs - ethical_keylogger - Visual Studio Code] key Pressed: Unknown(135)
+[2025-09-03 05:30:14.730] [main.rs - ethical_keylogger - Visual Studio Code] key Pressed: Return
+[2025-09-03 05:30:23.680] [main.rs - ethical_keylogger - Visual Studio Code] key Pressed: Unknown(135)
+[2025-09-03 05:30:27.495] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: ControlLeft
+[2025-09-03 05:30:28.012] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyV
+[2025-09-03 05:30:29.008] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Return
+[2025-09-03 05:33:02.601] [] key Pressed: ControlLeft
+[2025-09-03 05:33:03.242] [] key Pressed: Alt
+[2025-09-03 05:33:09.488] [] key Pressed: ControlLeft
+[2025-09-03 05:33:11.042] [] key Pressed: Alt
+[2025-09-03 08:46:52.129] [] key Pressed: Unknown(151)
+[2025-09-03 08:46:52.183] [] key Pressed: Unknown(151)
+[2025-09-03 09:31:01.196] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyO
+[2025-09-03 09:31:01.420] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyK
+[2025-09-03 09:31:01.692] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Space
+[2025-09-03 09:31:02.129] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyA
+[2025-09-03 09:31:02.416] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyM
+[2025-09-03 09:31:02.617] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Space
+[2025-09-03 09:31:03.114] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyB
+[2025-09-03 09:31:03.390] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyA
+[2025-09-03 09:31:03.813] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyC
+[2025-09-03 09:31:04.078] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyK
+[2025-09-03 09:31:04.290] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Space
+[2025-09-03 09:31:04.883] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyS
+[2025-09-03 09:31:05.255] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyO
+[2025-09-03 09:31:09.262] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Space
+[2025-09-03 09:31:11.394] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyH
+[2025-09-03 09:31:11.707] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyO
+[2025-09-03 09:31:12.144] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyW
+[2025-09-03 09:31:12.461] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Space
+[2025-09-03 09:31:13.209] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyD
+[2025-09-03 09:31:13.454] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyO
+[2025-09-03 09:31:13.746] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Space
+[2025-09-03 09:31:13.931] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyW
+[2025-09-03 09:31:14.153] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyE
+[2025-09-03 09:31:14.314] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Space
+[2025-09-03 09:31:14.550] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyF
+[2025-09-03 09:31:15.086] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyI
+[2025-09-03 09:31:15.635] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyX
+[2025-09-03 09:31:15.910] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Space
+[2025-09-03 09:31:16.662] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyI
+[2025-09-03 09:31:16.988] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyT
+[2025-09-03 09:31:17.230] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Space
+[2025-09-03 09:31:17.798] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyS
+[2025-09-03 09:31:18.072] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyO
+[2025-09-03 09:31:18.344] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Space
+[2025-09-03 09:31:18.621] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyI
+[2025-09-03 09:31:19.087] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyT
+[2025-09-03 09:31:19.564] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyS
+[2025-09-03 09:31:19.765] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Space
+[2025-09-03 09:31:19.971] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyW
+[2025-09-03 09:31:20.303] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyO
+[2025-09-03 09:31:20.578] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyR
+[2025-09-03 09:31:20.920] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyK
+[2025-09-03 09:31:21.175] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyI
+[2025-09-03 09:31:21.503] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyN
+[2025-09-03 09:31:21.896] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyG
+[2025-09-03 09:31:22.161] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Space
+[2025-09-03 09:31:22.597] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyP
+[2025-09-03 09:31:23.075] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyE
+[2025-09-03 09:31:23.417] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyR
+[2025-09-03 09:31:23.673] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyF
+[2025-09-03 09:31:23.998] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyE
+[2025-09-03 09:31:24.421] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyC
+[2025-09-03 09:31:24.851] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyT
+[2025-09-03 09:31:25.116] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyL
+[2025-09-03 09:31:25.502] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyY
+[2025-09-03 09:31:25.754] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Space
+[2025-09-03 09:31:26.232] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyA
+[2025-09-03 09:31:26.507] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyN
+[2025-09-03 09:31:26.770] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyD
+[2025-09-03 09:31:26.911] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Space
+[2025-09-03 09:31:27.427] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyB
+[2025-09-03 09:31:27.999] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Backspace
+[2025-09-03 09:31:29.465] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyN
+[2025-09-03 09:31:29.882] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyI
+[2025-09-03 09:31:30.307] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyC
+[2025-09-03 09:31:30.653] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyE
+[2025-09-03 09:31:31.627] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: BackSlash
+[2025-09-03 09:31:31.629] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Return
+[2025-09-03 09:32:39.751] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: ControlLeft
+[2025-09-03 09:32:40.208] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyE
+[2025-09-03 09:32:43.262] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: ControlLeft
+[2025-09-03 09:32:43.588] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyR
+[2025-09-03 09:34:01.291] [DeepSeek - Into the Unknown - Google Chrome] key Pressed: ControlLeft
+[2025-09-03 09:34:01.810] [DeepSeek - Into the Unknown - Google Chrome] key Pressed: KeyR
+[2025-09-03 09:35:21.241] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyS
+[2025-09-03 09:35:21.678] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyO
+[2025-09-03 09:35:22.052] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Space
+[2025-09-03 09:35:23.670] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyW
+[2025-09-03 09:35:24.217] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyH
+[2025-09-03 09:35:24.519] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyA
+[2025-09-03 09:35:25.048] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyT
+[2025-09-03 09:35:25.334] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Space
+[2025-09-03 09:35:25.921] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyO
+[2025-09-03 09:35:26.123] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyP
+[2025-09-03 09:35:27.276] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyT
+[2025-09-03 09:35:27.608] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyI
+[2025-09-03 09:35:27.803] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyO
+[2025-09-03 09:35:28.096] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyN
+[2025-09-03 09:35:28.293] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Space
+[2025-09-03 09:35:28.749] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyI
+[2025-09-03 09:35:29.112] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyS
+[2025-09-03 09:35:29.281] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Space
+[2025-09-03 09:35:29.580] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyW
+[2025-09-03 09:35:30.221] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Backspace
+[2025-09-03 09:35:30.453] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyE
+[2025-09-03 09:35:31.041] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyA
+[2025-09-03 09:35:31.348] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyS
+[2025-09-03 09:35:31.700] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyI
+[2025-09-03 09:35:31.975] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyE
+[2025-09-03 09:35:32.231] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyR
+[2025-09-03 09:35:32.504] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Space
+[2025-09-03 09:35:32.849] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyA
+[2025-09-03 09:35:33.181] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyN
+[2025-09-03 09:35:33.427] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyD
+[2025-09-03 09:35:33.588] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Space
+[2025-09-03 09:35:34.311] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyG
+[2025-09-03 09:35:34.503] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyR
+[2025-09-03 09:35:34.959] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyA
+[2025-09-03 09:35:35.264] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyT
+[2025-09-03 09:35:35.376] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyE
+[2025-09-03 09:35:35.598] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Space
+[2025-09-03 09:35:35.902] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyT
+[2025-09-03 09:35:36.195] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyO
+[2025-09-03 09:35:36.450] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Space
+[2025-09-03 09:35:36.742] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyU
+[2025-09-03 09:35:37.058] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyS
+[2025-09-03 09:35:37.364] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyE
+[2025-09-03 09:35:37.435] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Space
+[2025-09-03 09:35:37.830] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyI
+[2025-09-03 09:35:38.173] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyN
+[2025-09-03 09:35:38.370] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Space
+[2025-09-03 09:35:38.672] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyT
+[2025-09-03 09:35:38.866] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyO
+[2025-09-03 09:35:39.129] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Space
+[2025-09-03 09:35:39.901] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyF
+[2025-09-03 09:35:40.213] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyO
+[2025-09-03 09:35:40.752] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Backspace
+[2025-09-03 09:35:41.363] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyI
+[2025-09-03 09:35:41.676] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyX
+[2025-09-03 09:35:43.157] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: BackSlash
+[2025-09-03 09:35:43.159] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Return
+[2025-09-03 10:35:07.159] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyS
+[2025-09-03 10:35:07.465] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyO
+[2025-09-03 10:35:07.818] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Space
+[2025-09-03 10:35:08.356] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyH
+[2025-09-03 10:35:08.763] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyO
+[2025-09-03 10:35:09.189] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyW
+[2025-09-03 10:35:09.370] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Space
+[2025-09-03 10:35:09.595] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyD
+[2025-09-03 10:35:09.847] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyO
+[2025-09-03 10:35:10.122] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Space
+[2025-09-03 10:35:10.404] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyW
+[2025-09-03 10:35:10.679] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyE
+[2025-09-03 10:35:10.840] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Space
+[2025-09-03 10:35:11.126] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyG
+[2025-09-03 10:35:11.574] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyE
+[2025-09-03 10:35:11.916] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyT
+[2025-09-03 10:35:12.130] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Space
+[2025-09-03 10:35:12.840] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyS
+[2025-09-03 10:35:13.196] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyT
+[2025-09-03 10:35:13.387] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyA
+[2025-09-03 10:35:13.634] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyR
+[2025-09-03 10:35:13.805] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyT
+[2025-09-03 10:35:14.101] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyE
+[2025-09-03 10:35:14.353] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyD
+[2025-09-03 10:35:15.298] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Return
+[2025-09-03 10:38:11.359] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: ControlLeft
+[2025-09-03 10:38:11.816] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyC
+[2025-09-03 10:38:12.457] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: MetaLeft
+[2025-09-03 10:38:15.998] [] key Pressed: Unknown(135)
+[2025-09-03 10:38:19.612] [] key Pressed: Return
+[2025-09-03 10:38:20.845] [] key Pressed: CapsLock
+[2025-09-03 10:38:21.444] [] key Pressed: KeyP
+[2025-09-03 10:38:21.841] [] key Pressed: CapsLock
+[2025-09-03 10:38:22.297] [] key Pressed: KeyA
+[2025-09-03 10:38:22.640] [] key Pressed: KeyS
+[2025-09-03 10:38:22.827] [] key Pressed: KeyS
+[2025-09-03 10:38:23.048] [] key Pressed: KeyW
+[2025-09-03 10:38:23.373] [] key Pressed: KeyO
+[2025-09-03 10:38:23.635] [] key Pressed: KeyR
+[2025-09-03 10:38:23.870] [] key Pressed: KeyD
+[2025-09-03 10:38:24.318] [] key Pressed: Num1
+[2025-09-03 10:38:24.569] [] key Pressed: Num2
+[2025-09-03 10:38:24.856] [] key Pressed: Num3
+[2025-09-03 10:38:25.403] [] key Pressed: ShiftLeft
+[2025-09-03 10:38:25.776] [] key Pressed: Equal
+[2025-09-03 10:38:26.711] [] key Pressed: ShiftLeft
+[2025-09-03 10:38:27.057] [] key Pressed: Equal
+[2025-09-03 10:38:27.424] [] key Pressed: ShiftLeft
+[2025-09-03 10:38:27.796] [] key Pressed: Equal
+[2025-09-03 10:38:28.264] [] key Pressed: Return
+[2025-09-03 10:38:31.358] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: ControlLeft
+[2025-09-03 10:38:31.822] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyC
+[2025-09-03 10:38:33.569] [] key Pressed: Unknown(135)
+[2025-09-03 10:38:43.712] [] key Pressed: Return
+[2025-09-03 10:38:45.159] [] key Pressed: KeyE
+[2025-09-03 10:38:45.160] [] key Pressed: KeyE
+[2025-09-03 10:38:46.316] [] key Pressed: Comma
+[2025-09-03 10:38:46.316] [] key Pressed: Comma
+[2025-09-03 10:38:46.792] [] key Pressed: KeyD
+[2025-09-03 10:38:46.792] [] key Pressed: KeyD
+[2025-09-03 10:38:46.957] [] key Pressed: Comma
+[2025-09-03 10:38:46.957] [] key Pressed: Comma
+[2025-09-03 10:38:47.535] [] key Pressed: CapsLock
+[2025-09-03 10:38:47.535] [] key Pressed: CapsLock
+[2025-09-03 10:38:47.585] [] key Pressed: Space
+[2025-09-03 10:38:47.585] [] key Pressed: Space
+[2025-09-03 10:38:47.827] [] key Pressed: Comma
+[2025-09-03 10:38:47.827] [] key Pressed: Comma
+[2025-09-03 10:38:47.938] [] key Pressed: CapsLock
+[2025-09-03 10:38:47.938] [] key Pressed: CapsLock
+[2025-09-03 10:38:48.445] [] key Pressed: CapsLock
+[2025-09-03 10:38:48.445] [] key Pressed: CapsLock
+[2025-09-03 10:38:49.057] [] key Pressed: ShiftRight
+[2025-09-03 10:38:49.057] [] key Pressed: ShiftRight
+[2025-09-03 10:38:49.258] [] key Pressed: ShiftRight
+[2025-09-03 10:38:49.258] [] key Pressed: ShiftRight
+[2025-09-03 10:38:49.493] [] key Pressed: KeyQ
+[2025-09-03 10:38:49.493] [] key Pressed: KeyQ
+[2025-09-03 10:38:49.495] [] key Pressed: KeyW
+[2025-09-03 10:38:49.496] [] key Pressed: KeyW
+[2025-09-03 10:38:52.659] [] key Pressed: PrintScreen
+[2025-09-03 10:38:52.659] [] key Pressed: PrintScreen
+[2025-09-03 10:40:14.360] [] key Pressed: Space
+[2025-09-03 10:40:14.360] [] key Pressed: Space
+[2025-09-03 10:40:14.605] [] key Pressed: Space
+[2025-09-03 10:40:14.605] [] key Pressed: Space
+[2025-09-03 10:40:14.777] [] key Pressed: Space
+[2025-09-03 10:40:14.777] [] key Pressed: Space
+[2025-09-03 10:40:25.505] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Escape
+[2025-09-03 10:40:25.505] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: Escape
+[2025-09-03 10:40:32.515] [] key Pressed: Escape
+[2025-09-03 10:40:32.515] [] key Pressed: Escape
+[2025-09-03 10:40:42.901] [] key Pressed: KeyV
+[2025-09-03 10:40:42.901] [] key Pressed: KeyV
+[2025-09-03 10:40:43.670] [] key Pressed: KeyB
+[2025-09-03 10:40:43.670] [] key Pressed: KeyB
+[2025-09-03 10:40:44.157] [] key Pressed: KeyB
+[2025-09-03 10:40:44.157] [] key Pressed: KeyB
+[2025-09-03 10:40:45.384] [] key Pressed: KeyK
+[2025-09-03 10:40:45.384] [] key Pressed: KeyK
+[2025-09-03 10:40:46.073] [] key Pressed: KeyP
+[2025-09-03 10:40:46.073] [] key Pressed: KeyP
+[2025-09-03 10:40:46.560] [] key Pressed: KeyP
+[2025-09-03 10:40:46.560] [] key Pressed: KeyP
+[2025-09-03 10:40:46.997] [] key Pressed: KeyP
+[2025-09-03 10:40:46.997] [] key Pressed: KeyP
+[2025-09-03 10:40:47.830] [] key Pressed: ControlLeft
+[2025-09-03 10:40:47.830] [] key Pressed: ControlLeft
+[2025-09-03 10:40:48.499] [] key Pressed: Escape
+[2025-09-03 10:40:48.499] [] key Pressed: Escape
+[2025-09-03 10:40:52.187] [] key Pressed: Space
+[2025-09-03 10:40:52.187] [] key Pressed: Space
+[2025-09-03 10:41:19.290] [] key Pressed: Unknown(135)
+[2025-09-03 10:41:19.290] [] key Pressed: Unknown(135)
+[2025-09-03 10:41:21.662] [] key Pressed: Return
+[2025-09-03 10:41:21.662] [] key Pressed: Return
+[2025-09-03 10:41:22.784] [] key Pressed: CapsLock
+[2025-09-03 10:41:22.784] [] key Pressed: CapsLock
+[2025-09-03 10:41:23.242] [] key Pressed: KeyP
+[2025-09-03 10:41:23.242] [] key Pressed: KeyP
+[2025-09-03 10:41:23.423] [] key Pressed: CapsLock
+[2025-09-03 10:41:23.423] [] key Pressed: CapsLock
+[2025-09-03 10:41:23.748] [] key Pressed: KeyA
+[2025-09-03 10:41:23.748] [] key Pressed: KeyA
+[2025-09-03 10:41:25.793] [] key Pressed: KeyS
+[2025-09-03 10:41:25.793] [] key Pressed: KeyS
+[2025-09-03 10:41:25.974] [] key Pressed: KeyS
+[2025-09-03 10:41:25.974] [] key Pressed: KeyS
+[2025-09-03 10:41:26.392] [] key Pressed: KeyW
+[2025-09-03 10:41:26.392] [] key Pressed: KeyW
+[2025-09-03 10:41:26.777] [] key Pressed: KeyO
+[2025-09-03 10:41:26.777] [] key Pressed: KeyO
+[2025-09-03 10:41:27.094] [] key Pressed: KeyR
+[2025-09-03 10:41:27.094] [] key Pressed: KeyR
+[2025-09-03 10:41:27.568] [] key Pressed: KeyD
+[2025-09-03 10:41:27.568] [] key Pressed: KeyD
+[2025-09-03 10:41:28.014] [] key Pressed: Num1
+[2025-09-03 10:41:28.014] [] key Pressed: Num1
+[2025-09-03 10:41:28.290] [] key Pressed: Num2
+[2025-09-03 10:41:28.290] [] key Pressed: Num2
+[2025-09-03 10:41:28.572] [] key Pressed: Num3
+[2025-09-03 10:41:28.572] [] key Pressed: Num3
+[2025-09-03 10:41:29.049] [] key Pressed: ShiftLeft
+[2025-09-03 10:41:29.049] [] key Pressed: ShiftLeft
+[2025-09-03 10:41:29.386] [] key Pressed: Equal
+[2025-09-03 10:41:29.386] [] key Pressed: Equal
+[2025-09-03 10:41:29.741] [] key Pressed: Equal
+[2025-09-03 10:41:29.741] [] key Pressed: Equal
+[2025-09-03 10:41:30.043] [] key Pressed: Equal
+[2025-09-03 10:41:30.043] [] key Pressed: Equal
+[2025-09-03 10:41:30.421] [] key Pressed: Return
+[2025-09-03 10:41:30.421] [] key Pressed: Return
+[2025-09-03 10:41:34.193] [] key Pressed: CapsLock
+[2025-09-03 10:41:34.193] [] key Pressed: CapsLock
+[2025-09-03 10:41:34.861] [] key Pressed: CapsLock
+[2025-09-03 10:41:34.861] [] key Pressed: CapsLock
+[2025-09-03 10:41:35.836] [] key Pressed: KeyP
+[2025-09-03 10:41:35.836] [] key Pressed: KeyP
+[2025-09-03 10:41:36.162] [] key Pressed: CapsLock
+[2025-09-03 10:41:36.162] [] key Pressed: CapsLock
+[2025-09-03 10:41:36.566] [] key Pressed: KeyA
+[2025-09-03 10:41:36.566] [] key Pressed: KeyA
+[2025-09-03 10:41:37.083] [] key Pressed: KeyS
+[2025-09-03 10:41:37.083] [] key Pressed: KeyS
+[2025-09-03 10:41:37.267] [] key Pressed: KeyS
+[2025-09-03 10:41:37.267] [] key Pressed: KeyS
+[2025-09-03 10:41:37.549] [] key Pressed: KeyW
+[2025-09-03 10:41:37.549] [] key Pressed: KeyW
+[2025-09-03 10:41:37.886] [] key Pressed: KeyO
+[2025-09-03 10:41:37.886] [] key Pressed: KeyO
+[2025-09-03 10:41:38.191] [] key Pressed: KeyR
+[2025-09-03 10:41:38.191] [] key Pressed: KeyR
+[2025-09-03 10:41:38.474] [] key Pressed: KeyD
+[2025-09-03 10:41:38.474] [] key Pressed: KeyD
+[2025-09-03 10:41:39.022] [] key Pressed: Num1
+[2025-09-03 10:41:39.022] [] key Pressed: Num1
+[2025-09-03 10:41:39.287] [] key Pressed: Num2
+[2025-09-03 10:41:39.287] [] key Pressed: Num2
+[2025-09-03 10:41:39.590] [] key Pressed: Num3
+[2025-09-03 10:41:39.590] [] key Pressed: Num3
+[2025-09-03 10:41:40.106] [] key Pressed: ShiftLeft
+[2025-09-03 10:41:40.106] [] key Pressed: ShiftLeft
+[2025-09-03 10:41:40.461] [] key Pressed: Equal
+[2025-09-03 10:41:40.461] [] key Pressed: Equal
+[2025-09-03 10:41:40.849] [] key Pressed: Equal
+[2025-09-03 10:41:40.849] [] key Pressed: Equal
+[2025-09-03 10:41:41.152] [] key Pressed: Equal
+[2025-09-03 10:41:41.152] [] key Pressed: Equal
+[2025-09-03 10:41:43.029] [] key Pressed: Return
+[2025-09-03 10:41:43.029] [] key Pressed: Return
+[2025-09-03 10:42:30.657] [] key Pressed: LeftArrow
+[2025-09-03 10:42:30.657] [] key Pressed: LeftArrow
+[2025-09-03 10:42:31.032] [] key Pressed: LeftArrow
+[2025-09-03 10:42:31.032] [] key Pressed: LeftArrow
+[2025-09-03 10:42:42.838] [] key Pressed: RightArrow
+[2025-09-03 10:42:42.838] [] key Pressed: RightArrow
+[2025-09-03 10:42:44.088] [] key Pressed: UpArrow
+[2025-09-03 10:42:44.088] [] key Pressed: UpArrow
+[2025-09-03 10:42:49.290] [] key Pressed: RightArrow
+[2025-09-03 10:42:49.290] [] key Pressed: RightArrow
+[2025-09-03 10:42:52.052] [] key Pressed: Backspace
+[2025-09-03 10:42:52.052] [] key Pressed: Backspace
+[2025-09-03 10:42:52.935] [] key Pressed: CapsLock
+[2025-09-03 10:42:52.935] [] key Pressed: CapsLock
+[2025-09-03 10:42:53.513] [] key Pressed: KeyU
+[2025-09-03 10:42:53.513] [] key Pressed: KeyU
+[2025-09-03 10:42:54.182] [] key Pressed: CapsLock
+[2025-09-03 10:42:54.182] [] key Pressed: CapsLock
+[2025-09-03 10:59:23.593] [] key Pressed: ControlLeft
+[2025-09-03 10:59:23.593] [] key Pressed: ControlLeft
+[2025-09-03 10:59:23.920] [] key Pressed: KeyO
+[2025-09-03 10:59:23.920] [] key Pressed: KeyO
+[2025-09-03 10:59:25.318] [] key Pressed: Return
+[2025-09-03 10:59:25.318] [] key Pressed: Return
+[2025-09-03 10:59:27.287] [] key Pressed: ControlLeft
+[2025-09-03 10:59:27.287] [] key Pressed: ControlLeft
+[2025-09-03 10:59:28.993] [] key Pressed: KeyX
+[2025-09-03 10:59:28.993] [] key Pressed: KeyX
+[2025-09-03 10:59:30.462] [] key Pressed: Unknown(135)
+[2025-09-03 10:59:30.462] [] key Pressed: Unknown(135)
+[2025-09-03 10:59:36.195] [] key Pressed: Return
+[2025-09-03 10:59:36.195] [] key Pressed: Return
+[2025-09-03 10:59:37.910] [] key Pressed: CapsLock
+[2025-09-03 10:59:37.910] [] key Pressed: CapsLock
+[2025-09-03 10:59:38.527] [] key Pressed: KeyP
+[2025-09-03 10:59:38.527] [] key Pressed: KeyP
+[2025-09-03 10:59:38.802] [] key Pressed: CapsLock
+[2025-09-03 10:59:38.802] [] key Pressed: CapsLock
+[2025-09-03 10:59:39.329] [] key Pressed: KeyA
+[2025-09-03 10:59:39.329] [] key Pressed: KeyA
+[2025-09-03 10:59:39.621] [] key Pressed: KeyS
+[2025-09-03 10:59:39.621] [] key Pressed: KeyS
+[2025-09-03 10:59:39.775] [] key Pressed: KeyS
+[2025-09-03 10:59:39.775] [] key Pressed: KeyS
+[2025-09-03 10:59:39.980] [] key Pressed: KeyW
+[2025-09-03 10:59:39.980] [] key Pressed: KeyW
+[2025-09-03 10:59:40.497] [] key Pressed: KeyO
+[2025-09-03 10:59:40.497] [] key Pressed: KeyO
+[2025-09-03 10:59:40.874] [] key Pressed: KeyR
+[2025-09-03 10:59:40.874] [] key Pressed: KeyR
+[2025-09-03 10:59:41.106] [] key Pressed: KeyD
+[2025-09-03 10:59:41.106] [] key Pressed: KeyD
+[2025-09-03 10:59:41.602] [] key Pressed: Num1
+[2025-09-03 10:59:41.602] [] key Pressed: Num1
+[2025-09-03 10:59:41.808] [] key Pressed: Num2
+[2025-09-03 10:59:41.808] [] key Pressed: Num2
+[2025-09-03 10:59:42.019] [] key Pressed: Num3
+[2025-09-03 10:59:42.019] [] key Pressed: Num3
+[2025-09-03 10:59:42.487] [] key Pressed: ShiftLeft
+[2025-09-03 10:59:42.487] [] key Pressed: ShiftLeft
+[2025-09-03 10:59:43.226] [] key Pressed: Equal
+[2025-09-03 10:59:43.226] [] key Pressed: Equal
+[2025-09-03 10:59:43.591] [] key Pressed: Equal
+[2025-09-03 10:59:43.591] [] key Pressed: Equal
+[2025-09-03 10:59:43.899] [] key Pressed: Equal
+[2025-09-03 10:59:43.899] [] key Pressed: Equal
+[2025-09-03 10:59:44.326] [] key Pressed: Return
+[2025-09-03 10:59:44.326] [] key Pressed: Return
+[2025-09-03 10:59:54.497] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: ControlLeft
+[2025-09-03 10:59:54.497] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: ControlLeft
+[2025-09-03 10:59:54.830] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyC
+[2025-09-03 10:59:54.830] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyC
+[2025-09-03 10:59:57.621] [] key Pressed: Unknown(135)
+[2025-09-03 10:59:57.621] [] key Pressed: Unknown(135)
+[2025-09-03 10:59:59.687] [] key Pressed: Return
+[2025-09-03 10:59:59.687] [] key Pressed: Return
+[2025-09-03 11:00:03.356] [] key Pressed: KeyB
+[2025-09-03 11:00:03.356] [] key Pressed: KeyB
+[2025-09-03 11:00:04.372] [] key Pressed: KeyB
+[2025-09-03 11:00:04.372] [] key Pressed: KeyB
+[2025-09-03 11:00:13.125] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: ControlLeft
+[2025-09-03 11:00:13.125] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: ControlLeft
+[2025-09-03 11:00:13.622] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyC
+[2025-09-03 11:00:13.622] [Choosing Between Rust and Cybersecurity Learning - DeepSeek - Google Chrome] key Pressed: KeyC
+[2025-09-03 11:00:16.791] [] key Pressed: KeyT
+[2025-09-03 11:00:16.791] [] key Pressed: KeyT
+[2025-09-03 11:00:17.159] [] key Pressed: KeyT
+[2025-09-03 11:00:17.159] [] key Pressed: KeyT
+[2025-09-03 11:00:17.511] [] key Pressed: KeyT
+[2025-09-03 11:00:17.511] [] key Pressed: KeyT
+[2025-09-03 11:00:17.838] [] key Pressed: KeyT
+[2025-09-03 11:00:17.838] [] key Pressed: KeyT
+[2025-09-03 11:00:18.174] [] key Pressed: KeyT
+[2025-09-03 11:00:18.174] [] key Pressed: KeyT
+[2025-09-03 11:00:18.476] [] key Pressed: KeyT
+[2025-09-03 11:00:18.476] [] key Pressed: KeyT
+[2025-09-03 11:00:18.762] [] key Pressed: KeyT
+[2025-09-03 11:00:18.762] [] key Pressed: KeyT
+[2025-09-03 11:00:19.501] [] key Pressed: KeyY
+[2025-09-03 11:00:19.501] [] key Pressed: KeyY
+[2025-09-03 11:00:19.706] [] key Pressed: KeyY
+[2025-09-03 11:00:19.706] [] key Pressed: KeyY
+[2025-09-03 11:00:19.927] [] key Pressed: KeyY
+[2025-09-03 11:00:19.927] [] key Pressed: KeyY
+[2025-09-03 11:00:20.611] [] key Pressed: KeyT
+[2025-09-03 11:00:20.611] [] key Pressed: KeyT
+[2025-09-03 11:00:20.803] [] key Pressed: KeyT
+[2025-09-03 11:00:20.803] [] key Pressed: KeyT
+[2025-09-03 11:00:20.994] [] key Pressed: KeyT
+[2025-09-03 11:00:20.994] [] key Pressed: KeyT
+[2025-09-03 11:00:21.178] [] key Pressed: KeyT
+[2025-09-03 11:00:21.178] [] key Pressed: KeyT
+[2025-09-03 11:00:21.329] [] key Pressed: KeyT
+[2025-09-03 11:00:21.329] [] key Pressed: KeyT
+[2025-09-03 11:00:21.998] [] key Pressed: KeyU
+[2025-09-03 11:00:21.998] [] key Pressed: KeyU
+[2025-09-03 11:00:22.445] [] key Pressed: KeyI
+[2025-09-03 11:00:22.445] [] key Pressed: KeyI
+[2025-09-03 11:00:23.052] [] key Pressed: KeyT
+[2025-09-03 11:00:23.052] [] key Pressed: KeyT
+[2025-09-03 11:00:23.219] [] key Pressed: KeyT
+[2025-09-03 11:00:23.219] [] key Pressed: KeyT
+[2025-09-03 11:00:23.390] [] key Pressed: KeyT
+[2025-09-03 11:00:23.390] [] key Pressed: KeyT
+[2025-09-03 11:00:23.584] [] key Pressed: KeyT
+[2025-09-03 11:00:23.584] [] key Pressed: KeyT
+[2025-09-03 11:00:23.866] [] key Pressed: KeyY
+[2025-09-03 11:00:23.866] [] key Pressed: KeyY
+[2025-09-03 11:00:24.037] [] key Pressed: KeyY
+[2025-09-03 11:00:24.037] [] key Pressed: KeyY
+[2025-09-03 11:00:33.513] [] key Pressed: Unknown(135)
+[2025-09-03 11:00:33.513] [] key Pressed: Unknown(135)
+[2025-09-03 11:00:35.715] [] key Pressed: Return
+[2025-09-03 11:00:35.715] [] key Pressed: Return
+[2025-09-03 11:02:24.499] [] key Pressed: KeyS
+[2025-09-03 11:02:24.499] [] key Pressed: KeyS
+[2025-09-03 11:02:25.516] [] key Pressed: KeyU
+[2025-09-03 11:02:25.516] [] key Pressed: KeyU
+[2025-09-03 11:02:25.928] [] key Pressed: KeyD
+[2025-09-03 11:02:25.928] [] key Pressed: KeyD
+[2025-09-03 11:02:26.305] [] key Pressed: KeyO
+[2025-09-03 11:02:26.305] [] key Pressed: KeyO
+[2025-09-03 11:02:26.772] [] key Pressed: Space
+[2025-09-03 11:02:26.772] [] key Pressed: Space
+[2025-09-03 11:02:27.627] [] key Pressed: KeyR
+[2025-09-03 11:02:27.627] [] key Pressed: KeyR
+[2025-09-03 11:02:27.859] [] key Pressed: KeyE
+[2025-09-03 11:02:27.859] [] key Pressed: KeyE
+[2025-09-03 11:02:31.077] [] key Pressed: KeyB
+[2025-09-03 11:02:31.077] [] key Pressed: KeyB
+[2025-09-03 11:02:31.967] [] key Pressed: KeyO
+[2025-09-03 11:02:31.967] [] key Pressed: KeyO
+[2025-09-03 11:02:32.122] [] key Pressed: KeyO
+[2025-09-03 11:02:32.122] [] key Pressed: KeyO
+[2025-09-03 11:02:32.434] [] key Pressed: KeyT
+[2025-09-03 11:02:32.434] [] key Pressed: KeyT
+[2025-09-03 11:02:33.258] [] key Pressed: Return
+[2025-09-03 11:02:33.258] [] key Pressed: Return
+[2025-09-03 11:02:34.393] [] key Pressed: CapsLock
+[2025-09-03 11:02:34.393] [] key Pressed: CapsLock
+[2025-09-03 11:02:34.931] [] key Pressed: KeyP
+[2025-09-03 11:02:34.931] [] key Pressed: KeyP
+[2025-09-03 11:02:35.096] [] key Pressed: CapsLock
+[2025-09-03 11:02:35.096] [] key Pressed: CapsLock
+[2025-09-03 11:02:35.428] [] key Pressed: KeyA
+[2025-09-03 11:02:35.428] [] key Pressed: KeyA
+[2025-09-03 11:02:35.734] [] key Pressed: KeyS
+[2025-09-03 11:02:35.734] [] key Pressed: KeyS
+[2025-09-03 11:02:35.895] [] key Pressed: KeyS
+[2025-09-03 11:02:35.895] [] key Pressed: KeyS
+[2025-09-03 11:02:36.141] [] key Pressed: KeyW
+[2025-09-03 11:02:36.141] [] key Pressed: KeyW
+[2025-09-03 11:02:36.547] [] key Pressed: KeyO
+[2025-09-03 11:02:36.547] [] key Pressed: KeyO
+[2025-09-03 11:02:36.849] [] key Pressed: KeyR
+[2025-09-03 11:02:36.849] [] key Pressed: KeyR
+[2025-09-03 11:02:37.065] [] key Pressed: KeyD
+[2025-09-03 11:02:37.065] [] key Pressed: KeyD
+[2025-09-03 11:02:37.519] [] key Pressed: Num1
+[2025-09-03 11:02:37.519] [] key Pressed: Num1
+[2025-09-03 11:02:37.775] [] key Pressed: Num2
+[2025-09-03 11:02:37.775] [] key Pressed: Num2
+[2025-09-03 11:02:38.070] [] key Pressed: Num3
+[2025-09-03 11:02:38.070] [] key Pressed: Num3
+[2025-09-03 11:02:38.537] [] key Pressed: ShiftLeft
+[2025-09-03 11:02:38.537] [] key Pressed: ShiftLeft
+[2025-09-03 11:02:38.953] [] key Pressed: Equal
+[2025-09-03 11:02:38.953] [] key Pressed: Equal
+[2025-09-03 11:02:39.220] [] key Pressed: Equal
+[2025-09-03 11:02:39.220] [] key Pressed: Equal
+[2025-09-03 11:02:39.482] [] key Pressed: Equal
+[2025-09-03 11:02:39.482] [] key Pressed: Equal
+[2025-09-03 11:02:39.858] [] key Pressed: Return
+[2025-09-03 11:02:39.858] [] key Pressed: Return

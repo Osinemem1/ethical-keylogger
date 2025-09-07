@@ -1,0 +1,9 @@
+[package]
+name = "ethical_keylogger"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rdev = "0.5.0"
+chrono = "0.4.38"
+x11 = "2.21"
